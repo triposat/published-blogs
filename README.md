@@ -18,6 +18,7 @@
 
 ### DataCamp
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
+- [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 
 ### freeCodeCamp
 - [AWS Basics for DevOps – How to Setup a Linux Machine](https://www.freecodecamp.org/news/aws-basics-for-devops/)
