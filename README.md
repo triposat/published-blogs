@@ -67,7 +67,7 @@
 - [Step By Step: Toggling Elements Using React Hooks](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/)
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 
-### Scaler
+### Scaler by InterviewBit
 - [Arithmetic Progression](https://www.scaler.com/topics/arithmetic-progression/)
 - [Binary Search Tree Python](https://www.scaler.com/topics/binary-search-tree-python/)
 - [Breadth First Search in Python](https://www.scaler.com/topics/breadth-first-search-python/)
@@ -118,6 +118,8 @@
 - [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
 - [Python Requests/BS4 Beginners Series Part 5: User-Agents and Browser Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
 - [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
+
+### ScrapingBee
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
