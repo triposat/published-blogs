@@ -54,7 +54,7 @@
 - [Step By Step: Toggling Elements Using React Hooks](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/)
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 
-### Scaler
+### Scaler by InterviewBit
 - [Arithmetic Progression](https://www.scaler.com/topics/arithmetic-progression/)
 - [Binary Search Tree Python](https://www.scaler.com/topics/binary-search-tree-python/)
 - [Breadth First Search in Python](https://www.scaler.com/topics/breadth-first-search-python/)
