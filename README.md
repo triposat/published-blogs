@@ -89,6 +89,9 @@
 - [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 
+### ScrapingBee
+- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
+
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
 
