@@ -5,6 +5,7 @@
 
 ### Apify
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
+- [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
 - [How to save an image with Python](https://blog.apify.com/save-image-python/)
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 - [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
