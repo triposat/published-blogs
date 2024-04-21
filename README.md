@@ -1,11 +1,11 @@
-### Alchemy
-- [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Ghostwriting) (Top on Google Search)
-- [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Ghostwriting) (Top on Google Search)
-
+### Alchemy (Ghostwriting)
+- [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet) (Google Top Rank)
+- [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts) (Google Top Rank)
 
 ### Apify
-- [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
 - [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
+- [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
+- [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
 - [How to save an image with Python](https://blog.apify.com/save-image-python/)
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 - [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
@@ -15,17 +15,16 @@
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
-- [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
 
 ### Built In
+- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
 - [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
-- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
 - [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
 
 ### DataCamp
-- [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide) (Top on Google Search)
-- [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python) (Top on Google Search)
+- [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python) (Google Top Rank)
+- [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide) (Google Top Rank)
 
 ### freeCodeCamp
 - [AWS Basics for DevOps – How to Setup a Linux Machine](https://www.freecodecamp.org/news/aws-basics-for-devops/)
@@ -34,58 +33,58 @@
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 
 ### GeeksforGeeks
-- [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
-- [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/)
-- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/)
-- [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/)
-- [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/)
-- [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
+- [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/) (Google Top Rank)
+- [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/) (Google Top Rank)
+- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/) 
+- [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/) (Top on Google Search)
+- [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/) (Top on Google Search)
+- [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/) (Top on Google Search)
 - [Explain OAuth (Open Authorization)](https://www.geeksforgeeks.org/explain-oauth-open-authorization/)
-- [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/)
-- [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/)
-- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/)
+- [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/) (Top on Google Search)
+- [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/) (Google Top Rank)
+- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/) 
 - [How to Run JavaScript from Python?](https://www.geeksforgeeks.org/how-to-run-javascript-from-python/)
 - [How to Send Automated Email Messages in Python](https://www.geeksforgeeks.org/how-to-send-automated-email-messages-in-python/)
 - [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
 - [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
-- [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
+- [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/) (Google Top Rank)
 
 ### HasData (Ghostwriting)
 - [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
 - [Web Scraping Using Puppeteer & Node.js: Tutorial for Beginners](https://scrape-it.cloud/blog/puppeteer-web-scraping)
 - [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping)
 
-### HowToDoInJava
-- [Python Numpy 101: A Beginners Guide](https://howtodoinjava.com/python/numpy/python-numpy-tutorial/) (Ghostwriting)
-- [Python Pandas 101: A Beginners Guide](https://howtodoinjava.com/python/pandas/python-pandas/) (Ghostwriting)
-- [Quicksort – Algorithm, Implementation and Performance](https://howtodoinjava.com/algorithm/quicksort-java-example/) (Ghostwriting)
+### HowToDoInJava (Ghostwriting)
+- [Python Numpy 101: A Beginners Guide](https://howtodoinjava.com/python/numpy/python-numpy-tutorial/)
+- [Python Pandas 101: A Beginners Guide](https://howtodoinjava.com/python/pandas/python-pandas/)
+- [Quicksort – Algorithm, Implementation and Performance](https://howtodoinjava.com/algorithm/quicksort-java-example/)
 
 ### LambdaTest
 - [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
 - [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
 
-### Middleware
-- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/) (Ghostwriting) (Top on Google Search)
+### Middleware (Ghostwriting)
+- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/) (Google Top Rank)
 
 ### OpenReplay
-- [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/) (Top on Google Search)
-- [Formatting Compact Numbers With JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/) (Top on Google Search)
+- [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/) (Google Top Rank)
+- [Formatting Compact Numbers With JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/)
 - [Scraping Web Pages With Puppeteer](https://blog.openreplay.com/scraping-web-pages-with-puppeteer/)
-- [Step By Step: Toggling Elements Using React Hooks](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/) (Top on Google Search)
+- [Step By Step: Toggling Elements Using React Hooks](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/) (Google Top Rank)
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 
 ### Scaler by InterviewBit
 - [Arithmetic Progression](https://www.scaler.com/topics/arithmetic-progression/)
-- [Binary Search Tree Python](https://www.scaler.com/topics/binary-search-tree-python/) (Top on Google Search)
-- [Breadth First Search in Python](https://www.scaler.com/topics/breadth-first-search-python/) (Top on Google Search)
+- [Binary Search Tree Python](https://www.scaler.com/topics/binary-search-tree-python/) (Google Top Rank)
+- [Breadth First Search in Python](https://www.scaler.com/topics/breadth-first-search-python/) (Google Top Rank)
 - [C++ Program to Convert Binary Number to Decimal](https://www.scaler.com/topics/binary-to-decimal-in-cpp/)
-- [Class Vs. Object: What are the Differences?](https://www.scaler.com/topics/difference-between-class-and-object/) (Top on Google Search)
-- [Command Line Arguments in C](https://www.scaler.com/topics/c/command-line-arguments-in-c/) (Top on Google Search)
+- [Class Vs. Object: What are the Differences?](https://www.scaler.com/topics/difference-between-class-and-object/) (Google Top Rank)
+- [Command Line Arguments in C](https://www.scaler.com/topics/c/command-line-arguments-in-c/) (Google Top Rank)
 - [Delete a Node from Linked List](https://www.scaler.com/topics/delete-a-node-from-linked-list/) 
-- [Depth First Search (DFS) in Python](https://www.scaler.com/topics/dfs-python/) (Top on Google Search)
-- [Difference Between For Loop and While Loop in Python](https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/) (Top on Google Search)
-- [Fizz Buzz Program](https://www.scaler.com/topics/fizz-buzz-program/) (Top on Google Search)
-- [Get Path of File Python](https://www.scaler.com/topics/get-path-of-file-python/) (Top on Google Search)
+- [Depth First Search (DFS) in Python](https://www.scaler.com/topics/dfs-python/) (Google Top Rank)
+- [Difference Between For Loop and While Loop in Python](https://www.scaler.com/topics/difference-between-for-and-while-loop-in-python/) (Google Top Rank)
+- [Fizz Buzz Program](https://www.scaler.com/topics/fizz-buzz-program/) (Google Top Rank)
+- [Get Path of File Python](https://www.scaler.com/topics/get-path-of-file-python/) (Google Top Rank)
 - [Heap in Python](https://www.scaler.com/topics/heap-in-python/)
 - [Horizontal Navigation Bar CSS](https://www.scaler.com/topics/horizontal-navigation-bar-css/)
 - [How to Create a Sticky Navbar?](https://www.scaler.com/topics/sticky-navbar-css/)
@@ -94,10 +93,10 @@
 - [Log10 in Python](https://www.scaler.com/topics/log10-python/)
 - [Math Floor Python](https://www.scaler.com/topics/math-floor-python/)
 - [Module Vs. Package in Python](https://www.scaler.com/topics/module-and-package-in-python/) 
-- [Painters Partition Problem](https://www.scaler.com/topics/painters-partition-problem/) (Top on Google Search)
-- [Polish Notation in Data Structure](https://www.scaler.com/topics/polish-notation-in-data-structure/) (Top on Google Search)
+- [Painters Partition Problem](https://www.scaler.com/topics/painters-partition-problem/) (Google Top Rank)
+- [Polish Notation in Data Structure](https://www.scaler.com/topics/polish-notation-in-data-structure/) (Google Top Rank)
 - [Python Argparse](https://www.scaler.com/topics/python-argparse/)
-- [Python Choice](https://www.scaler.com/topics/python-choice/) (Top on Google Search)
+- [Python Choice](https://www.scaler.com/topics/python-choice/) (Google Top Rank)
 - [Python Dictionary Keys() Method](https://www.scaler.com/topics/python-dictionary-keys/)
 - [Python OS Module](https://www.scaler.com/topics/os-module-in-python/)
 - [Python Dictionary Keys() Method](https://www.scaler.com/topics/python-dictionary-keys/)
@@ -106,14 +105,14 @@
 - [Types of Queue in Data Structure](https://www.scaler.com/topics/types-of-queue/)
 - [Unit Testing in Python](https://www.scaler.com/topics/unit-testing-in-python/)
 - [What is Assignment Operator in Python?](https://www.scaler.com/topics/assignment-operator-in-python/)
-- [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/) (Top on Google Search)
+- [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/) (Google Top Rank)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 
 ### ScrapeOps (Ghostwriting)
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
 - [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/web-scraping-playbook/cloudflare-error-1015/)
-- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Top on Google Search)
-- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/) (Top on Google Search)
+- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/) (Google Top Rank)
+- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/) (Google Top Rank)
 - [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/)
 - [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/)
 - [Python Requests/BS4 Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-2/)
@@ -123,15 +122,15 @@
 - [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
 
 ### ScrapingBee
-- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Top on Google Search)
-- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Top on Google Search)
-- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/) (Top on Google Search)
+- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
+- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Google Top Rank)
+- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/) (Google Top Rank)
 
 ### SigNoz
-- [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Top on Google Search)
+- [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
 
-### StackAbuse
-- [Check if String Contains a Number in Python](https://stackabuse.com/check-if-string-contains-a-number-in-python/) (Ghostwriting)
+### StackAbuse (Ghostwriting)
+- [Check if String Contains a Number in Python](https://stackabuse.com/check-if-string-contains-a-number-in-python/)
 
 ### Zipy
 - [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
