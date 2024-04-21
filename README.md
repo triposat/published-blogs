@@ -50,6 +50,11 @@
 - [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
 - [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
 
+### HasData (Ghostwriting)
+- [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
+- [Web Scraping Using Puppeteer & Node.js: Tutorial for Beginners](https://scrape-it.cloud/blog/puppeteer-web-scraping)
+- [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping)
+
 ### HowToDoInJava
 - [Python Numpy 101: A Beginners Guide](https://howtodoinjava.com/python/numpy/python-numpy-tutorial/) (Ghostwriting)
 - [Python Pandas 101: A Beginners Guide](https://howtodoinjava.com/python/pandas/python-pandas/) (Ghostwriting)
@@ -103,12 +108,6 @@
 - [What is Assignment Operator in Python?](https://www.scaler.com/topics/assignment-operator-in-python/)
 - [What is Data Hiding in Python?](https://www.scaler.com/topics/data-hiding-in-python/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
-
-
-### Scrape-It.Cloud (Ghostwriting)
-- [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
-- [Web Scraping Using Puppeteer & Node.js: Tutorial for Beginners](https://scrape-it.cloud/blog/puppeteer-web-scraping)
-- [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping)
 
 ### ScrapeOps (Ghostwriting)
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
