@@ -99,7 +99,6 @@
 - [Python Choice](https://www.scaler.com/topics/python-choice/) (Google Top Rank)
 - [Python Dictionary Keys() Method](https://www.scaler.com/topics/python-dictionary-keys/)
 - [Python OS Module](https://www.scaler.com/topics/os-module-in-python/)
-- [Python Dictionary Keys() Method](https://www.scaler.com/topics/python-dictionary-keys/)
 - [Send Email using Python](https://www.scaler.com/topics/send-email-using-python/)
 - [Sort Dictionary by Value in Python](https://www.scaler.com/topics/sort-dictionary-by-value-in-python/)
 - [Types of Queue in Data Structure](https://www.scaler.com/topics/types-of-queue/)
