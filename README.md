@@ -15,6 +15,7 @@
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
+- [How to do web crawling in Python](https://blog.apify.com/python-webcrawling/)
 
 ### Built In
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
