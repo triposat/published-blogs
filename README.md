@@ -112,6 +112,10 @@
 - [Python Requests and BS4 Beginners Series: Part 4 - Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
 - [Python Requests and BS4 Beginners Series: Part 5 - User-Agents and Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
 - [Python Requests and BS4 Beginners Series: Part 6 - Proxy Usage](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
+- [Python Selenium Beginners Series Part 1: How To Build Our First Scraper](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide/)
+- [Python Selenium Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-2/)
+- [Python Selenium Beginners Series Part 3: Storing Data in AWS S3, MySQL & Postgres DBs](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-3/)
+- [Python Selenium Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-4/)
 
 ### ScrapingBee
 - [Scraping Websites with Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
