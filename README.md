@@ -71,6 +71,7 @@
 - [Formatting Compact Numbers with JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/) (Google Top Rank)
 - [Toggling Elements Using React Hooks: Step By Step Guide](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/) (Google Top Rank)
 - [Web Scraping with Node.js and Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
+- [Scraping Web Pages With Puppeteer](https://blog.openreplay.com/scraping-web-pages-with-puppeteer/)
 
 ### Scaler by InterviewBit
 - [Explaining Arithmetic Progression](https://www.scaler.com/topics/arithmetic-progression/)
