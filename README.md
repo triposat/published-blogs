@@ -23,7 +23,7 @@
 - [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
 - [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
 
-### DataCamp
+### Datacamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python) (Google Top Rank)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide) (Google Top Rank)
 
