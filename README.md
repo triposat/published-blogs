@@ -134,6 +134,7 @@
 
 ### ScrapingDog
 - [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/)
+- [4 Best Methods To Find All The URLs on A Domain’s Website](https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/)
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
