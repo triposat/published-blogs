@@ -16,6 +16,7 @@
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
 - [How to do web crawling in Python](https://blog.apify.com/python-webcrawling/)
+- [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
 
 ### Built In
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
