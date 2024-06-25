@@ -135,7 +135,7 @@
 - [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
 
 ### ScrapingDog
-- [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/)
+- [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/) (Google Top Rank)
 - [4 Best Methods To Find All The URLs on A Domain’s Website](https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/)
 
 ### SigNoz
