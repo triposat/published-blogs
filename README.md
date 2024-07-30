@@ -100,6 +100,7 @@
 - [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
 - [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 - [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
+- [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
 
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
