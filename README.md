@@ -17,6 +17,7 @@
 - [How to parse XML in Python](https://blog.apify.com/python-parse-xml/)
 - [How to do web crawling in Python](https://blog.apify.com/python-webcrawling/)
 - [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
+- [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
 
 ### Built In
 - [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
