@@ -114,6 +114,8 @@
 - [What is Weak Entity Set is Represented As?](https://www.scaler.com/topics/weak-entity-set-is-represented-as/) (Google Top Rank)
 - [What are Logical Operators in Python?](https://www.scaler.com/topics/python/logical-operators-in-python/)
 
+### ScrapingAnt
+- [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Google Top Rank)
