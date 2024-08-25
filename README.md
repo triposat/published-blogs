@@ -148,6 +148,8 @@
 - [Python Selenium Beginners Series Part 3: Storing Data in AWS S3, MySQL & Postgres DBs](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-3/)
 - [Python Selenium Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-4/)
 
+### ScrapingAnt
+- [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Google Top Rank)
