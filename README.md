@@ -150,6 +150,9 @@
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
+- [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
+- [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
+
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Google Top Rank)
