@@ -42,10 +42,6 @@
 - [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial)
 - [MongoDB Certification: A Complete Guide](https://www.datacamp.com/blog/mongodb-certification)
 
-### LambdaTest
-- [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
-- [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
-
 ### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/) (Google Top Rank)
 - [Formatting Compact Numbers With JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/) (Google Top Rank)
@@ -59,17 +55,21 @@
 - [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
 - [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
 
-### SigNoz
-- [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
-
-### Zipy
-- [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
-
 ### freeCodeCamp
 - [AWS Basics for DevOps – How to Setup a Linux Machine](https://www.freecodecamp.org/news/aws-basics-for-devops/)
 - [How to Scrape Amazon Product Reviews Behind a Login](https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/)
 - [How to Use the TypeScript satisfies Operator](https://www.freecodecamp.org/news/typescript-satisfies-operator/)
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
+
+### LambdaTest
+- [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
+- [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
+
+### SigNoz
+- [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
+
+### Zipy
+- [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
 
 ### Scaler by InterviewBit
 - [all() Function Python](https://www.scaler.com/topics/all-function-python/)
