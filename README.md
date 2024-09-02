@@ -25,6 +25,7 @@
 - [Playwright vs. Selenium - A Comprehensive Comparison for 2024](https://scrapingant.com/blog/playwright-vs-selenium)
 - [Playwright vs. Puppeteer in 2024 - Which Should You Choose?](https://scrapingant.com/blog/playwright-vs-puppeteer)
 - [JavaScript vs Python for Web Scraping - Which Is Best?](https://scrapingant.com/blog/web-scraping-javascript-vs-python)
+- [Open Source Web Scraping Libraries to Bypass Anti-Bot Systems](https://scrapingant.com/blog/open-source-web-scraping-libraries-bypass-anti-bot)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
