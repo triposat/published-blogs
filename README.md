@@ -21,10 +21,6 @@
 - [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
 - [How to use Selenium Wire in 2024](https://scrapingant.com/blog/how-to-use-selenium-wire)
-- [Top Python HTTP Clients for Web Scraping](https://scrapingant.com/blog/top-python-http-clients-for-web-scraping)
-- [Playwright vs. Selenium - A Comprehensive Comparison for 2024](https://scrapingant.com/blog/playwright-vs-selenium)
-- [Playwright vs. Puppeteer in 2024 - Which Should You Choose?](https://scrapingant.com/blog/playwright-vs-puppeteer)
-- [JavaScript vs Python for Web Scraping - Which Is Best?](https://scrapingant.com/blog/web-scraping-javascript-vs-python)
 - [Open Source Web Scraping Libraries to Bypass Anti-Bot Systems](https://scrapingant.com/blog/open-source-web-scraping-libraries-bypass-anti-bot)
 
 ### ScrapingBee
