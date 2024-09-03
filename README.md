@@ -20,7 +20,6 @@
 - [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
 - [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
-- [How to use Selenium Wire in 2024](https://scrapingant.com/blog/how-to-use-selenium-wire)
 - [Open Source Web Scraping Libraries to Bypass Anti-Bot Systems](https://scrapingant.com/blog/open-source-web-scraping-libraries-bypass-anti-bot)
 
 ### ScrapingBee
