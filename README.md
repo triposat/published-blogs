@@ -20,7 +20,8 @@
 - [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
 - [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
-- [Open Source Web Scraping Libraries to Bypass Anti-Bot Systems](https://scrapingant.com/blog/open-source-web-scraping-libraries-bypass-anti-bot)
+- [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
+- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
