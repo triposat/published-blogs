@@ -27,10 +27,10 @@
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/) (Google Top Rank)
 - [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/) (Google Top Rank)
-- [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
-- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
+- [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/) (Google Top Rank)
+- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/) (Google Top Rank)
 - [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
-- [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
+- [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/) (Google Top Rank)Nb
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
 
 ### ScrapeOps
