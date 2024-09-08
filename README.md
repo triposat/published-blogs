@@ -52,7 +52,7 @@
 
 ### ScrapingDog
 - [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/) (Google Top Rank)
-- [4 Best Methods To Find All The URLs on A Domain’s Website](https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/)
+- [4 Best Methods To Find All The URLs on A Domain's Website](https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/) (Google Top Rank)
 - [Complete Guide To Building Job Board using Web Scraping](https://www.scrapingdog.com/blog/building-job-board-using-web-scraping/)
 - [Web Scraping with jQuery](https://www.scrapingdog.com/blog/jquery-web-scraping/)
 
