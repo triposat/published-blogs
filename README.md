@@ -32,6 +32,13 @@
 - [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
 - [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/) (Google Top Rank)Nb
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
+- [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
+
+### Bright Data
+[How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
+
+### Scrape.do
+...
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
