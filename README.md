@@ -22,6 +22,8 @@
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
 - [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
 - [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
+- [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
+- [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
@@ -33,6 +35,7 @@
 - [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/) (Google Top Rank)Nb
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
 - [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
+- [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
 
 ### Bright Data
 [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
