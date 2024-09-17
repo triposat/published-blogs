@@ -74,8 +74,8 @@
 ### Datacamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python) (Google Top Rank)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide) (Google Top Rank)
-- [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial)
-- [MongoDB Certification: A Complete Guide](https://www.datacamp.com/blog/mongodb-certification)
+- [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial) (Google Top Rank)
+- [MongoDB Certification: A Complete Guide](https://www.datacamp.com/blog/mongodb-certification) (Google Top Rank)
 
 ### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/) (Google Top Rank)
