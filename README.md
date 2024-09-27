@@ -40,8 +40,8 @@
 - [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/) (Google Top Rank)
 
 ### Bright Data
-[How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
-[Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
+- [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
+- [Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
