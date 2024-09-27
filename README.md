@@ -14,6 +14,8 @@
 - [How to do web crawling in Python](https://blog.apify.com/python-webcrawling/)
 - [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
 - [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
+- [How to scrape Google Finance in Python](https://blog.apify.com/scrape-google-finance-python/)
+- [How to scrape Yahoo Finance in Python](https://blog.apify.com/scrape-yahoo-finance-python/)
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
@@ -39,9 +41,7 @@
 
 ### Bright Data
 [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
-
-### Scrape.do
-...
+[Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
