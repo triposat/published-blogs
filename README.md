@@ -1,6 +1,11 @@
 ### Apify
-- [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
+- [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
+- [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
+- [How to do web crawling](https://blog.apify.com/python-webcrawling/)
+- [How to parse XML](https://blog.apify.com/python-parse-xml/)
+- [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
+- [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
 - [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
 - [How to save an image with Python](https://blog.apify.com/save-image-python/)
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
@@ -9,13 +14,8 @@
 - [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
 - [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
-- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
-- [How to parse XML](https://blog.apify.com/python-parse-xml/)
-- [How to do web crawling](https://blog.apify.com/python-webcrawling/)
-- [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
 - [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
-- [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
-- [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
+- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
