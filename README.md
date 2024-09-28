@@ -22,8 +22,8 @@
 - [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
 - [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
-- [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
-- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
+- [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth) (Google Top Rank)
+- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)  (Google Top Rank)
 - [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
 - [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
 
@@ -69,7 +69,7 @@
 ### HasData
 - [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
 - [Web Scraping Using Puppeteer & Node.js: Tutorial for Beginners](https://scrape-it.cloud/blog/puppeteer-web-scraping)
-- [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping)
+- [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping) (Google Top Rank)
 
 ### Datacamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python) (Google Top Rank)
