@@ -76,6 +76,7 @@
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide) (Google Top Rank)
 - [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial) (Google Top Rank)
 - [MongoDB Certification: A Complete Guide](https://www.datacamp.com/blog/mongodb-certification) (Google Top Rank)
+- [Adagrad Optimizer Explained: How It Works, Implementation, & Comparisons](https://www.datacamp.com/tutorial/adagrad-optimizer-explained) (Google Top Rank)
 
 ### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/) (Google Top Rank)
