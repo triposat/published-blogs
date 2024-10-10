@@ -24,11 +24,11 @@
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
 - [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth) (Google Top Rank)
 - [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)  (Google Top Rank)
-- [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
-- [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
-- [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)
+- [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)  (Google Top Rank)
+- [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)  (Google Top Rank)
+- [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)  (Google Top Rank)
 - [How to Scrape Google News - Complete Guide](https://scrapingant.com/blog/scrape-google-news)
-- [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
+- [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)  (Google Top Rank)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
