@@ -66,15 +66,15 @@
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 
 ### Built In
-- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
+- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest) 
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket) (Google Top Rank)
-- [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
-- [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
+- [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)  (Google Top Rank)
+- [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan) (Google Top Rank)
 
 ### freeCodeCamp
 - [AWS Basics for DevOps – How to Setup a Linux Machine](https://www.freecodecamp.org/news/aws-basics-for-devops/)
 - [How to Scrape Amazon Product Reviews Behind a Login](https://www.freecodecamp.org/news/how-to-scrape-amazon-product-reviews-behind-a-login/)
-- [How to Use the TypeScript satisfies Operator](https://www.freecodecamp.org/news/typescript-satisfies-operator/)
+- [How to Use the TypeScript satisfies Operator](https://www.freecodecamp.org/news/typescript-satisfies-operator/) (Google Top Rank)
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 
 ### LambdaTest
@@ -85,7 +85,7 @@
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/) (Google Top Rank)
 
 ### Zipy
-- [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
+- [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools) (Google Top Rank)
 
 ### Scaler by InterviewBit
 - [all() Function Python](https://www.scaler.com/topics/all-function-python/)
