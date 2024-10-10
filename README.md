@@ -26,6 +26,9 @@
 - [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)  (Google Top Rank)
 - [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
 - [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
+- [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)
+- [How to Scrape Google News - Complete Guide](https://scrapingant.com/blog/scrape-google-news)
+- [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/) (Google Top Rank)
@@ -42,6 +45,11 @@
 ### Bright Data
 - [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 - [Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
+- [Most Popular Anti-Scraping Techniques in 2024](https://brightdata.com/blog/web-data/anti-scraping-techniques)
+
+### Scrape.do
+- [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
+- [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
