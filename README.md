@@ -40,7 +40,7 @@
 - [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
 - [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
-- [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/
+- [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
 - [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
 
 ### Bright Data
