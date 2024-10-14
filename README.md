@@ -27,9 +27,10 @@
 - [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping) 
 - [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms) 
 - [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper) 
-- [How to Scrape Google News - Complete Guide](https://scrapingant.com/blog/scrape-google-news)
+- [How to Scrape Google News](https://scrapingant.com/blog/scrape-google-news)
 - [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
 - [How to Scrape Google Trends Data](https://scrapingant.com/blog/scrape-google-trends)
+- [How to Scrape Google Images](https://scrapingant.com/blog/how-to-scrape-google-images)
 
 ### ScrapingBee
 - [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
