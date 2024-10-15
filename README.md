@@ -29,7 +29,7 @@
 - [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper) 
 - [How to Scrape Google News](https://scrapingant.com/blog/scrape-google-news)
 - [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
-- [How to Scrape Google Trends Data](https://scrapingant.com/blog/scrape-google-trends)
+- [How to Scrape Google Trends](https://scrapingant.com/blog/scrape-google-trends)
 - [How to Scrape Google Images](https://scrapingant.com/blog/how-to-scrape-google-images)
 
 ### ScrapingBee
