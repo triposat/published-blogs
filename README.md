@@ -48,6 +48,7 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 - [Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
 - [Most Popular Anti-Scraping Techniques in 2024](https://brightdata.com/blog/web-data/anti-scraping-techniques)
+- [How to Scrape Wikipedia](https://brightdata.com/blog/web-data/how-to-scrape-wikipedia)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
