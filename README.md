@@ -53,6 +53,7 @@
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
+- [Advanced Puppeteer Web Scraping Techniques for Automated Data Extraction](https://scrape.do/blog/advanced-puppeteer-web-scraping-techniques-for-automated-data-extraction)
 
 ### ScrapeOps
 - [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
