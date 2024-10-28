@@ -16,6 +16,7 @@
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
+- [Find elements in Selenium](https://blog.apify.com/selenium-find-elements/)
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
