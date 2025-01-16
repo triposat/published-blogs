@@ -1,6 +1,7 @@
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
+- [How to scrape Google Maps data using Python](https://crawlee.dev/blog/scrape-google-maps)
 - [How to do web crawling](https://blog.apify.com/python-webcrawling/)
 - [How to parse XML](https://blog.apify.com/python-parse-xml/)
 - [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
@@ -44,6 +45,7 @@
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
 - [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
 - [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
+- [Scrapy Playwright Tutorial: How to Scrape Dynamic Websites](https://www.scrapingbee.com/blog/scrapy-playwright-tutorial/)
 
 ### Bright Data
 - [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
@@ -51,7 +53,8 @@
 - [Most Popular Anti-Scraping Techniques in 2024](https://brightdata.com/blog/web-data/anti-scraping-techniques)
 - [How to Scrape Wikipedia](https://brightdata.com/blog/web-data/how-to-scrape-wikipedia)
 - [How to Scrape Google Flights](https://brightdata.com/blog/web-data/how-to-scrape-google-flights)
-- [Amazon Scraper](https://github.com/luminati-io/Amazon-scraper)
+- [Geographical Pricing Explained](https://brightdata.com/blog/proxy-101/location-based-pricing)
+- [How to Scrape Amazon ASIN With Python & Bright Data](https://brightdata.com/blog/web-data/how-to-scrape-amazon-asin)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
