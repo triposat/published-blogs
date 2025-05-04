@@ -1,3 +1,5 @@
+*This list features my guest blog posts published under my name. Separately, I've ghostwritten ~150 pieces (including blogs, technical documentation, READMEs, etc.) for notable companies like Alchemy, Bright Data, Decodo, ScrapeOps, Scrapingdog, Hasdata, Middleware, and GeeksforGeeks. These are not listed here as they were published under client names.
+
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
@@ -152,20 +154,3 @@
 - [What is the Difference between Clustered and Non-clustered Index?](https://www.scaler.com/topics/clustered-and-non-clustered-index/)
 - [What is Weak Entity Set is Represented As?](https://www.scaler.com/topics/weak-entity-set-is-represented-as/)
 - [What are Logical Operators in Python?](https://www.scaler.com/topics/python/logical-operators-in-python/)
-
-### GeeksforGeeks
-- [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
-- [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/)
-- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/) 
-- [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/)
-- [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/)
-- [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
-- [Explain OAuth (Open Authorization)](https://www.geeksforgeeks.org/explain-oauth-open-authorization/)
-- [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/)
-- [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/)
-- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/) 
-- [How to Run JavaScript from Python?](https://www.geeksforgeeks.org/how-to-run-javascript-from-python/)
-- [How to Send Automated Email Messages in Python](https://www.geeksforgeeks.org/how-to-send-automated-email-messages-in-python/)
-- [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
-- [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
-- [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
