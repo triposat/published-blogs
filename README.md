@@ -1,3 +1,5 @@
+*This list features my guest blog posts published under my name. Separately, I've ghostwritten ~150 pieces (including blogs, technical documentation, READMEs, etc.) for notable companies like Alchemy, Bright Data, Decodo, ScrapeOps, Scrapingdog, Hasdata, Middleware, and GeeksforGeeks. These are not listed here as they were published under client names.
+
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
@@ -64,34 +66,6 @@
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 - [Advanced Puppeteer Web Scraping Techniques for Automated Data Extraction](https://scrape.do/blog/advanced-puppeteer-web-scraping-techniques-for-automated-data-extraction)
 
-### ScrapeOps
-- [Bypass CAPTCHAs With Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/bypass-captchas-with-puppeteer/)
-- [Cloudflare Error 1015: How To Bypass Rate Limiting](https://scrapeops.io/web-scraping-playbook/cloudflare-error-1015/)
-- [How To Optimize Puppeteer for Web Scraping](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-optimize-puppeteer/)
-- [Logging Into Websites With NodeJS Puppeteer](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-logging-into-websites/)
-- [NodeJS Puppeteer: A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-guide/)
-- [What is Puppeteer Extra - A Web Scrapers Guide](https://scrapeops.io/puppeteer-web-scraping-playbook/nodejs-puppeteer-extra/)
-- [Python Requests/BS4 Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-2/)
-- [Python Requests/BS4 Beginners Series Part 3: Storing Data to JSON, S3, MySQL, and PostgreSQL](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-3/)
-- [Python Requests/BS4 Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-4/)
-- [Python Requests/BS4 Beginners Series Part 5: User-Agents and Browser Headers](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-5/)
-- [Python Requests/BS4 Beginners Series Part 6: Proxies](https://scrapeops.io/python-web-scraping-playbook/python-requests-beautifulsoup-beginners-guide-part-6/)
-- [Python Selenium Beginners Series Part 1: How To Build Our First Scraper](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide/)
-- [Python Selenium Beginners Series Part 2: Cleaning Dirty Data & Dealing With Edge Cases](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-2/)
-- [Python Selenium Beginners Series Part 3: Storing Data in AWS S3, MySQL & Postgres DBs](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-3/)
-- [Python Selenium Beginners Series Part 4: Retries & Concurrency](https://scrapeops.io/selenium-web-scraping-playbook/python-selenium-beginners-guide-part-4/)
-
-### ScrapingDog
-- [Web Scraping with Node-Fetch](https://www.scrapingdog.com/blog/web-scraping-with-node-fetch/)
-- [4 Best Methods To Find All The URLs on A Domain's Website](https://www.scrapingdog.com/blog/find-all-the-urls-on-a-domain-website/)
-- [Complete Guide To Building Job Board using Web Scraping](https://www.scrapingdog.com/blog/building-job-board-using-web-scraping/)
-- [Web Scraping with jQuery](https://www.scrapingdog.com/blog/jquery-web-scraping/)
-
-### HasData
-- [Scrape eBay Like a Pro: Python Guide for Beginners](https://scrape-it.cloud/blog/ebay-data-scraping)
-- [Web Scraping Using Puppeteer & Node.js: Tutorial for Beginners](https://scrape-it.cloud/blog/puppeteer-web-scraping)
-- [Web Scraping with Playwright and Node.js](https://scrape-it.cloud/blog/playwright-web-scraping)
-
 ### Datacamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
@@ -118,30 +92,15 @@
 - [How to Use the TypeScript satisfies Operator](https://www.freecodecamp.org/news/typescript-satisfies-operator/)
 - [What is DevOps? How Development + Operations Helps Teams Work More Efficiently](https://www.freecodecamp.org/news/how-devops-works/)
 
-### Alchemy
-- [How to Deploy a Smart Contract to the Sepolia Testnet](https://docs.alchemy.com/docs/how-to-deploy-a-smart-contract-to-the-sepolia-testnet)
-- [How to Use Custom Webhooks for NFT Marketplace Alerts](https://docs.alchemy.com/docs/how-to-use-custom-webhooks-for-nft-marketplace-alerts)
-
 ### LambdaTest
 - [Bulma CSS Framework: Getting Started Guide](https://www.lambdatest.com/blog/bulma-css-framework/)
 - [Demystifying CSS Min(), Max(), and Clamp() Functions](https://www.lambdatest.com/blog/css-min-max-clamp-functions/)
 
-### Middleware.io
-- [How To Search Logs Effectively With Log Management](https://middleware.io/blog/search-logs-effectively-with-log-management/)
-
 ### SigNoz
 - [What is a log shipper - Top 7 Log Shippers that you can use](https://signoz.io/blog/log-shipper/)
 
-### StackAbuse
-- [Check if String Contains a Number in Python](https://stackabuse.com/check-if-string-contains-a-number-in-python/)
-
 ### Zipy
 - [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
-
-### HowToDoInJava
-- [Python Numpy 101: A Beginners Guide](https://howtodoinjava.com/python/numpy/python-numpy-tutorial/)
-- [Python Pandas 101: A Beginners Guide](https://howtodoinjava.com/python/pandas/python-pandas/)
-- [Quicksort – Algorithm, Implementation and Performance](https://howtodoinjava.com/algorithm/quicksort-java-example/)
 
 ### Scaler by InterviewBit
 - [all() Function Python](https://www.scaler.com/topics/all-function-python/)
@@ -195,20 +154,3 @@
 - [What is the Difference between Clustered and Non-clustered Index?](https://www.scaler.com/topics/clustered-and-non-clustered-index/)
 - [What is Weak Entity Set is Represented As?](https://www.scaler.com/topics/weak-entity-set-is-represented-as/)
 - [What are Logical Operators in Python?](https://www.scaler.com/topics/python/logical-operators-in-python/)
-
-### GeeksforGeeks
-- [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
-- [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/)
-- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/) 
-- [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/)
-- [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/)
-- [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
-- [Explain OAuth (Open Authorization)](https://www.geeksforgeeks.org/explain-oauth-open-authorization/)
-- [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/)
-- [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/)
-- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/) 
-- [How to Run JavaScript from Python?](https://www.geeksforgeeks.org/how-to-run-javascript-from-python/)
-- [How to Send Automated Email Messages in Python](https://www.geeksforgeeks.org/how-to-send-automated-email-messages-in-python/)
-- [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
-- [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
-- [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
