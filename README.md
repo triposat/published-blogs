@@ -65,7 +65,6 @@
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
-- [Advanced Puppeteer Web Scraping Techniques for Automated Data Extraction](https://scrape.do/blog/advanced-puppeteer-web-scraping-techniques-for-automated-data-extraction)
 
 ### Datacamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
