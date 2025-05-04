@@ -55,6 +55,9 @@
 - [How to Scrape Google Flights](https://brightdata.com/blog/web-data/how-to-scrape-google-flights)
 - [Geographical Pricing Explained](https://brightdata.com/blog/proxy-101/location-based-pricing)
 - [How to Scrape Amazon ASIN With Python & Bright Data](https://brightdata.com/blog/web-data/how-to-scrape-amazon-asin)
+- [Top 7 Browser Automation Tools](https://brightdata.com/blog/web-data/best-browser-automation-tools)
+- [Web Scraping with LLaMA 3: Turn Any Website into Structured JSON](https://brightdata.com/blog/web-data/web-scraping-with-llama-3)
+- [Web Scraping With MCP Servers](https://brightdata.com/blog/ai/web-scraping-with-mcp)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
