@@ -61,6 +61,7 @@
 - [Web Scraping With MCP Servers](https://brightdata.com/blog/ai/web-scraping-with-mcp)
 - [Top 7 Browser Automation Tools](https://brightdata.com/blog/web-data/best-browser-automation-tools)
 - [Geographical Pricing Explained](https://brightdata.com/blog/proxy-101/location-based-pricing)
+- [Fine-Tuning Gemma 3: A Step-by-Step Guide with Custom Q&A Dataset](https://brightdata.com/blog/ai/fine-tuning-gemma-3)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
