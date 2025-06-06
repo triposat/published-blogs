@@ -1,4 +1,4 @@
-*This list features my guest blog posts published under my name. Beyond these, my ghostwriting portfolio includes approximately 150 pieces (blogs, technical documentation, READMEs) created for companies such as Decodo, Bright Data, [...], and ScrapingDog. These works were published under client names and are therefore not listed here.
+*This repository showcases my technical articles published under my name. I've written 150+ client deliverables for multiple brands. As these were published under client identities, they're not featured here.
 
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
