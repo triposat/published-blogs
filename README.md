@@ -1,4 +1,4 @@
-*This repository showcases my technical articles published under my name. I've written 150+ client deliverables for multiple brands. As these were published under client identities, they're not featured here.
+*This repository holds my published technical writings. Fun fact? I’ve also ghostwritten 150+ pieces for big brands – but those stay incognito (client secrets, y’know 😉).
 
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
