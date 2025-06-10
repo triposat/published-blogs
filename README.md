@@ -63,6 +63,7 @@
 - [Geographical Pricing Explained](https://brightdata.com/blog/proxy-101/location-based-pricing)
 - [Fine-Tuning Gemma 3: A Step-by-Step Guide with Custom Q&A Dataset](https://brightdata.com/blog/ai/fine-tuning-gemma-3)
 - [Building AI-Ready Vector Datasets for LLMs: A Guide with Bright Data, Google Gemini, and Pinecone](https://brightdata.com/blog/ai/ai-ready-vector-datasets)
+- [Traditional Web Scraping vs. Model Context Protocol (MCP): The Developer’s Guide](https://brightdata.com/blog/ai/mcp-vs-traditional-scraping)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
