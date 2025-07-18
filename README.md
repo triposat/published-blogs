@@ -1,4 +1,4 @@
-*This repository holds my published technical writings. Fun fact? I’ve also ghostwritten 150+ pieces for big brands – but those stay incognito (client secrets, y’know 😉).
+*This repository contains my tech writing. Fun fact? I've also ghostwritten 150+ pieces for major companies – but those stay under wraps (client confidentiality, y'know 😉).
 
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
@@ -64,6 +64,8 @@
 - [Fine-Tuning Gemma 3: A Step-by-Step Guide with Custom Q&A Dataset](https://brightdata.com/blog/ai/fine-tuning-gemma-3)
 - [Building AI-Ready Vector Datasets for LLMs: A Guide with Bright Data, Google Gemini, and Pinecone](https://brightdata.com/blog/ai/ai-ready-vector-datasets)
 - [Traditional Web Scraping vs. Model Context Protocol (MCP): The Developer’s Guide](https://brightdata.com/blog/ai/mcp-vs-traditional-scraping)
+- [Building Web Scraping Agents with CrewAI & Bright Data’s Model Context Protocol (MCP)](https://brightdata.com/blog/ai/crewai-with-bright-data-mcp-web-scraping)
+- [Building a Web Data Extraction App with Lovable, Supabase, and Bright Data](https://brightdata.com/blog/ai/lovable-with-supabase-and-bright-data)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
