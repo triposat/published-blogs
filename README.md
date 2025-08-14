@@ -66,6 +66,7 @@
 - [Traditional Web Scraping vs. Model Context Protocol (MCP): The Developer’s Guide](https://brightdata.com/blog/ai/mcp-vs-traditional-scraping)
 - [Building Web Scraping Agents with CrewAI & Bright Data’s Model Context Protocol (MCP)](https://brightdata.com/blog/ai/crewai-with-bright-data-mcp-web-scraping)
 - [Building a Web Data Extraction App with Lovable, Supabase, and Bright Data](https://brightdata.com/blog/ai/lovable-with-supabase-and-bright-data)
+- [How to Scrape NASDAQ Data: Step-by-Step Guide](https://brightdata.com/blog/web-data/how-to-scrape-nasdaq)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
