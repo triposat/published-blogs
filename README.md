@@ -68,6 +68,8 @@
 - [Building a Web Data Extraction App with Lovable, Supabase, and Bright Data](https://brightdata.com/blog/ai/lovable-with-supabase-and-bright-data)
 - [How to Scrape NASDAQ Data: Step-by-Step Guide](https://brightdata.com/blog/web-data/how-to-scrape-nasdaq)
 - [How to Scrape Google AI Mode: Complete Guide](https://brightdata.com/blog/ai/scrape-google-ai-mode)
+- [AI Data Mapping: A Complete Guide](https://brightdata.com/blog/ai/ai-data-mapping)
+- [AI Data Enrichment: Enhancing Data for Smarter Decisions](https://brightdata.com/blog/ai/ai-data-enrichment)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
