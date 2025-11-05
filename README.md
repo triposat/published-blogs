@@ -112,6 +112,23 @@
 ### Zipy
 - [16 website monitoring tools in 2023](https://www.zipy.ai/blog/website-monitoring-tools)
 
+### GeeksforGeeks
+- [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
+- [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/)
+- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/) 
+- [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/)
+- [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/)
+- [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
+- [Explain OAuth (Open Authorization)](https://www.geeksforgeeks.org/explain-oauth-open-authorization/)
+- [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/)
+- [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/)
+- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/) 
+- [How to Run JavaScript from Python?](https://www.geeksforgeeks.org/how-to-run-javascript-from-python/)
+- [How to Send Automated Email Messages in Python](https://www.geeksforgeeks.org/how-to-send-automated-email-messages-in-python/)
+- [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
+- [Python – Web App To Send Push Notification To Your Phone](https://www.geeksforgeeks.org/python-web-app-to-send-push-notification-to-your-phone/)
+- [Types of Internet Security Protocols](https://www.geeksforgeeks.org/types-of-internet-security-protocols/)
+
 ### Scaler by InterviewBit
 - [In Which Year Was the Python Language Developed?](https://www.scaler.com/topics/in-which-year-was-the-python-language-developed/)
 - [What is Assignment Operator in Python?](https://www.scaler.com/topics/assignment-operator-in-python/)
