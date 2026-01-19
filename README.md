@@ -71,6 +71,7 @@
 - [AI Data Mapping: A Complete Guide](https://brightdata.com/blog/ai/ai-data-mapping)
 - [AI Data Enrichment: Enhancing Data for Smarter Decisions](https://brightdata.com/blog/ai/ai-data-enrichment)
 - [Building an AI-Powered Amazon Product Analyzer with Bright Data, Gemini, and Streamlit](https://brightdata.com/blog/ai/amazon-product-analyzer)
+- [B2B Data Guide 2026: Sources, Types, Decay Prevention & Provider Selection](https://brightdata.com/blog/web-data/b2b-data)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
