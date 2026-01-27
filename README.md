@@ -1,5 +1,4 @@
-*This repository contains my tech writing. Fun fact? I've also ghostwritten 150+ pieces for major companies – but those stay under wraps (client confidentiality, y'know 😉).
-
+*_I’ve also ghostwritten 150+ pieces for various companies, which aren’t public due to client confidentiality._
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
