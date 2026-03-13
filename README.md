@@ -74,6 +74,7 @@
 - [Best LinkedIn Data Providers: Choosing the Right Solution in 2026](https://brightdata.com/blog/web-data/best-linkedin-data-providers)
 - [Google Search URL Parameters & Operators: 2026 List (50+)](https://brightdata.com/blog/web-data/google-search-url-parameters)
 - [How to Build an Amazon Pipeline with Bright Data + Mage AI](https://brightdata.com/blog/ai/mage-ai-with-bright-data)
+- [Build an AI Web Scraping Agent with Nanobot and Bright Data](https://brightdata.com/blog/ai/nanobot-with-web-mcp)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
