@@ -19,6 +19,8 @@
 - [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
+- [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
+- [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
@@ -75,6 +77,10 @@
 - [Google Search URL Parameters & Operators: 2026 List (50+)](https://brightdata.com/blog/web-data/google-search-url-parameters)
 - [How to Build an Amazon Pipeline with Bright Data + Mage AI](https://brightdata.com/blog/ai/mage-ai-with-bright-data)
 - [Build an AI Web Scraping Agent with Nanobot and Bright Data](https://brightdata.com/blog/ai/nanobot-with-web-mcp)
+- [6 Ways to Connect Live Web Data to Tableau (2026)](https://brightdata.com/blog/web-data/connect-live-web-data-to-tableau)
+- [How to Build a RAG Pipeline with Bright Data and Weaviate](https://brightdata.com/blog/ai/weaviate-with-bright-data)
+- [Search APIs vs. Knowledge Supply Chains: Why Enterprise Agents Need More Than Just Search](https://brightdata.com/blog/ai/search-apis-vs-knowledge-supply-chains)
+- [Web Scraping with Scrapling: A Python Tutorial (2026)](https://brightdata.com/blog/web-data/web-scraping-with-scrapling)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
