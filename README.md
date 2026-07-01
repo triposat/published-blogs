@@ -109,6 +109,6 @@
 
 ---
 
-More general software & CS writing lives in [dev-articles](https://github.com/triposat/dev-articles).
+My other software and CS articles are over in [dev-articles](https://github.com/triposat/dev-articles).
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+Find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
