@@ -21,6 +21,11 @@
 - [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
 - [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
+- [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
+- [Measure LLM brand visibility: a data-driven approach](https://blog.apify.com/measure-llm-brand-visibility/)
+- [Build your own ad monitoring tool with Apify in a day](https://blog.apify.com/build-your-own-ad-monitoring-tool/)
+- [Talent market intelligence: A hands-on guide for recruiters](https://blog.apify.com/talent-market-intelligence/)
+- [Real-time compensation benchmarking: A hands-on guide](https://blog.apify.com/real-time-compensation-benchmarking/)
 
 ### ScrapingAnt
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
@@ -81,6 +86,8 @@
 - [How to Build a RAG Pipeline with Bright Data and Weaviate](https://brightdata.com/blog/ai/weaviate-with-bright-data)
 - [Search APIs vs. Knowledge Supply Chains: Why Enterprise Agents Need More Than Just Search](https://brightdata.com/blog/ai/search-apis-vs-knowledge-supply-chains)
 - [Web Scraping with Scrapling: A Python Tutorial (2026)](https://brightdata.com/blog/web-data/web-scraping-with-scrapling)
+- [Build an account research agent in Salesforce Agentforce with Bright Data](https://brightdata.com/blog/ai/salesforce-agentforce-bright-data)
+- [Build Web Scrapers from a Prompt with Kiro and Bright Data](https://brightdata.com/blog/ai/web-scrapers-with-kiro-power)
 
 ### Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
