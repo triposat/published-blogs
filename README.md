@@ -1,4 +1,4 @@
-**I've ghostwritten 150+ articles for companies in the web scraping and data space. These aren't public since the work is under client confidentiality, but I'm happy to share samples if you'd like.**
+**I've ghostwritten 100+ articles for companies in the web scraping and data space. These aren't public since the work is under client confidentiality, but I'm happy to share samples if you'd like.**
 
 ## Apify
 - [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
