@@ -32,34 +32,6 @@ _I've also ghostwritten 150+ pieces for various companies, which aren't public d
 - [Talent market intelligence: A hands-on guide for recruiters](https://blog.apify.com/talent-market-intelligence/)
 - [Real-time compensation benchmarking: A hands-on guide](https://blog.apify.com/real-time-compensation-benchmarking/)
 
-## ScrapingAnt
-- [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
-- [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
-- [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
-- [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
-- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
-- [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
-- [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
-- [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
-- [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)
-- [How to Scrape Google News](https://scrapingant.com/blog/scrape-google-news)
-- [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
-- [How to Scrape Google Trends](https://scrapingant.com/blog/scrape-google-trends)
-- [How to Scrape Google Images](https://scrapingant.com/blog/how-to-scrape-google-images)
-
-## ScrapingBee
-- [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
-- [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
-- [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
-- [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
-- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
-- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
-- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
-- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
-- [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
-- [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
-- [Scrapy Playwright Tutorial: How to Scrape Dynamic Websites](https://www.scrapingbee.com/blog/scrapy-playwright-tutorial/)
-
 ## Bright Data
 - [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 - [How to Scrape Wikipedia](https://brightdata.com/blog/web-data/how-to-scrape-wikipedia)
@@ -92,6 +64,34 @@ _I've also ghostwritten 150+ pieces for various companies, which aren't public d
 - [Web Scraping with Scrapling: A Python Tutorial (2026)](https://brightdata.com/blog/web-data/web-scraping-with-scrapling)
 - [Build an account research agent in Salesforce Agentforce with Bright Data](https://brightdata.com/blog/ai/salesforce-agentforce-bright-data)
 - [Build Web Scrapers from a Prompt with Kiro and Bright Data](https://brightdata.com/blog/ai/web-scrapers-with-kiro-power)
+
+## ScrapingBee
+- [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
+- [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
+- [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
+- [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
+- [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
+- [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
+- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
+- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
+- [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
+- [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
+- [Scrapy Playwright Tutorial: How to Scrape Dynamic Websites](https://www.scrapingbee.com/blog/scrapy-playwright-tutorial/)
+
+## ScrapingAnt
+- [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
+- [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
+- [Web Scraping with Playwright Series Part 3 - Storing Data](https://scrapingant.com/blog/web-scraping-playwright-python-part-3)
+- [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
+- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
+- [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
+- [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
+- [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
+- [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)
+- [How to Scrape Google News](https://scrapingant.com/blog/scrape-google-news)
+- [How to Scrape Google Flights](https://scrapingant.com/blog/scrape-google-flights)
+- [How to Scrape Google Trends](https://scrapingant.com/blog/scrape-google-trends)
+- [How to Scrape Google Images](https://scrapingant.com/blog/how-to-scrape-google-images)
 
 ## Scrape.do
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
