@@ -198,3 +198,7 @@
 - [Linux Operating System](https://www.scaler.com/topics/linux-operating-system/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 - [Application of Distributed Shared Memory](https://www.scaler.com/topics/application-of-distributed-shared-memory/)
+
+---
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/triposat/).
