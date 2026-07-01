@@ -1,6 +1,6 @@
 # Published Articles
 
-Technical writing on web scraping, data extraction, and AI-powered web data.
+Articles on web scraping, data extraction, and AI.
 
 _I've also ghostwritten 150+ pieces for various companies, which aren't public due to client confidentiality._
 
