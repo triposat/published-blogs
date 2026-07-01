@@ -1,4 +1,60 @@
-*_I’ve also ghostwritten 150+ pieces for various companies, which aren’t public due to client confidentiality._
+<h1 align="center">Satyam Tripathi</h1>
+
+<p align="center">
+  <b>Technical Content Writer — Web Scraping · Data Extraction · AI + Web Data</b><br>
+  I turn complex scraping, automation, and AI-data topics into tutorials developers actually finish.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bright%20Data-0F5FDC?style=flat-square&logoColor=white" alt="Bright Data">
+  <img src="https://img.shields.io/badge/Apify-00A67E?style=flat-square&logoColor=white" alt="Apify">
+  <img src="https://img.shields.io/badge/Decodo-6C5CE7?style=flat-square&logoColor=white" alt="Decodo">
+  <img src="https://img.shields.io/badge/ScrapingBee-F4C430?style=flat-square&logoColor=black" alt="ScrapingBee">
+  <img src="https://img.shields.io/badge/ScrapingAnt-1E1E1E?style=flat-square&logoColor=white" alt="ScrapingAnt">
+  <img src="https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logoColor=black" alt="DataCamp">
+  <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logoColor=white" alt="freeCodeCamp">
+  <img src="https://img.shields.io/badge/Built%20In-EB4C23?style=flat-square&logoColor=white" alt="Built In">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Published%20articles-150%2B-0F5FDC?style=flat-square" alt="150+ articles">
+  <img src="https://img.shields.io/badge/Publications-14%2B-00A67E?style=flat-square" alt="14+ publications">
+  <img src="https://img.shields.io/badge/Focus-Web%20Scraping%20%26%20AI-6C5CE7?style=flat-square" alt="Focus">
+</p>
+
+---
+
+## 👋 About
+
+I'm a technical writer focused on **web scraping, data extraction, and AI-powered web data**. I write hands-on, code-first guides for the companies building this ecosystem — Bright Data, Apify, Decodo, ScrapingBee, and more — covering everything from Playwright and anti-bot evasion to MCP servers, RAG pipelines, and scraping agents.
+
+> _I've also ghostwritten 150+ pieces for various companies, which aren't public due to client confidentiality. Anonymized samples available on request._
+
+---
+
+## ⭐ Featured Work
+
+A curated set of my strongest, most recent pieces at the intersection of **web scraping and AI**.
+
+| Article | Publisher | What it covers |
+|---|---|---|
+| [Web Scraping With MCP Servers](https://brightdata.com/blog/ai/web-scraping-with-mcp) | Bright Data | Using Model Context Protocol to feed live web data to LLMs |
+| [Building Web Scraping Agents with CrewAI & Bright Data MCP](https://brightdata.com/blog/ai/crewai-with-bright-data-mcp-web-scraping) | Bright Data | Multi-agent scraping workflows end to end |
+| [How to Scrape Google AI Mode: Complete Guide](https://brightdata.com/blog/ai/scrape-google-ai-mode) | Bright Data | Extracting data from Google's AI-generated results |
+| [Building AI-Ready Vector Datasets for LLMs](https://brightdata.com/blog/ai/ai-ready-vector-datasets) | Bright Data | Web data → embeddings with Gemini + Pinecone |
+| [How to Build a RAG Pipeline with Bright Data and Weaviate](https://brightdata.com/blog/ai/weaviate-with-bright-data) | Bright Data | Retrieval-augmented generation on fresh web data |
+| [Web Scraping with LLaMA 3: Turn Any Website into Structured JSON](https://brightdata.com/blog/web-data/web-scraping-with-llama-3) | Bright Data | LLM-powered extraction into clean schemas |
+| [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/) | Apify | Getting content surfaced in AI search results |
+| [Measure LLM brand visibility: a data-driven approach](https://blog.apify.com/measure-llm-brand-visibility/) | Apify | Tracking how brands appear across LLM answers |
+| [Build an account research agent in Salesforce Agentforce](https://brightdata.com/blog/ai/salesforce-agentforce-bright-data) | Bright Data | A working research agent with live web data |
+| [Fine-Tuning Gemma 3: A Step-by-Step Guide](https://brightdata.com/blog/ai/fine-tuning-gemma-3) | Bright Data | Custom Q&A dataset fine-tuning, start to finish |
+
+---
+
+## 📚 Full Archive
+
+Everything published under my byline, grouped by publication.
+
 ### Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
@@ -34,7 +90,6 @@
 - [Web Scraping with Playwright Series Part 4 - Avoid Getting Blocked](https://scrapingant.com/blog/web-scraping-playwright-python-part-4)
 - [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
 - [Avoid Detection with Puppeteer Stealth](https://scrapingant.com/blog/avoid-detection-with-puppeteer-stealth)
-- [How to Make Playwright Scraping Undetectable](https://scrapingant.com/blog/playwright-scraping-undetectable)
 - [ScrapeGraphAI Tutorial - Getting Started with LLMs Web Scraping](https://scrapingant.com/blog/scrapegraphai-llms-web-scraping)
 - [ScrapeGraphAI Tutorial - Scraping Websites with LLMs](https://scrapingant.com/blog/scrapegraphai-tutorial-scraping-websites-with-llms)
 - [Automated Web Scraping with Python AutoScraper](https://scrapingant.com/blog/automated-web-scraper-autoscraper)
@@ -93,7 +148,7 @@
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
-### Datacamp
+### DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
 - [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial)
@@ -108,9 +163,9 @@
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 
 ### Built In
-- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest) 
+- [GraphQL vs REST APIs](https://builtin.com/software-engineering-perspectives/graphql-vs-rest)
 - [Guide to Python Socket Programming](https://builtin.com/data-science/python-socket)
-- [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python) 
+- [How to Fix KeyError Exceptions in Python](https://builtin.com/data-science/keyerror-python)
 - [WAN vs LAN: Differences Between the Two Networks](https://builtin.com/software-engineering-perspectives/wan-vs-lan)
 
 ### freeCodeCamp
@@ -132,14 +187,14 @@
 ### GeeksforGeeks
 - [Create a Registration Form using PyWebIO Module in Python](https://www.geeksforgeeks.org/create-a-registration-form-using-pywebio-module-in-python/)
 - [Difference between CIFS vs SMB](https://www.geeksforgeeks.org/difference-between-cifs-vs-smb/)
-- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/) 
+- [Difference between Communication and Transmission](https://www.geeksforgeeks.org/difference-between-communication-and-transmission/)
 - [Difference between Root Port and Designated Port](https://www.geeksforgeeks.org/difference-between-root-port-and-designated-port/)
 - [Difference between Session and Cookies](https://www.geeksforgeeks.org/difference-between-session-and-cookies/)
 - [Export WhatsApp Chat History to Excel Using Python](https://www.geeksforgeeks.org/export-whatsapp-chat-history-to-excel-using-python/)
 - [Explain OAuth (Open Authorization)](https://www.geeksforgeeks.org/explain-oauth-open-authorization/)
 - [Generate Captcha Using Python](https://www.geeksforgeeks.org/generate-captcha-using-python/)
 - [Generate Word Clouds Of Any Shape In Python](https://www.geeksforgeeks.org/generate-word-clouds-of-any-shape-in-python/)
-- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/) 
+- [How to create AGE Calculator Web App PyWebIO in Python?](https://www.geeksforgeeks.org/how-to-create-age-calculator-web-app-pywebio-in-python/)
 - [How to Run JavaScript from Python?](https://www.geeksforgeeks.org/how-to-run-javascript-from-python/)
 - [How to Send Automated Email Messages in Python](https://www.geeksforgeeks.org/how-to-send-automated-email-messages-in-python/)
 - [Python – Move Files To Creation and Modification Date Named Directories](https://www.geeksforgeeks.org/python-move-files-to-creation-and-modification-date-named-directories/)
@@ -198,3 +253,13 @@
 - [Linux Operating System](https://www.scaler.com/topics/linux-operating-system/)
 - [What is Microsoft Azure: How Does It Work and Services](https://www.scaler.com/topics/what-is-azure/)
 - [Application of Distributed Shared Memory](https://www.scaler.com/topics/application-of-distributed-shared-memory/)
+
+---
+
+## 📬 Let's work together
+
+Looking for a writer who can go deep on scraping, automation, or AI-data topics — and ship clean, tested tutorials?
+
+**Email:** tripathisatyam5721@gmail.com
+
+<sub>Ghostwriting available under NDA · Anonymized samples on request</sub>
