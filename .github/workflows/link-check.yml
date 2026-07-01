@@ -1,0 +1,59 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # every Monday, 09:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['README.md']
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check every link in README
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -uo pipefail
+          urls=$(grep -oE 'https?://[^) ]+' README.md | sort -u)
+          dead=""
+          while IFS= read -r url; do
+            [ -z "$url" ] && continue
+            code=$(curl -sL --compressed -A "Mozilla/5.0" --max-time 30 \
+                   -o /dev/null -w "%{http_code}" "$url" || echo 000)
+            # Hard failures only. 403/429 are bot-blocks (e.g. DataCamp), not dead.
+            if [[ "$code" == 404 || "$code" == 410 || "$code" == 000 || "$code" == 5* ]]; then
+              dead="${dead}"$'\n'"- \`$code\`  $url"
+            fi
+          done <<< "$urls"
+
+          {
+            echo "## Link check"
+            if [ -z "$dead" ]; then
+              echo "All links healthy ✅"
+            else
+              echo "Dead links found:"
+              echo "$dead"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+          if [ -n "$dead" ]; then
+            echo "Dead links:$dead"
+            title="🔗 Broken links detected in README"
+            body="The scheduled link check found dead links:${dead}"$'\n\n'"_Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}_"
+            existing=$(gh issue list --state open --json number,title \
+                       --jq "[.[] | select(.title==\"$title\") | .number][0]" 2>/dev/null || true)
+            if [ -z "$existing" ] || [ "$existing" == "null" ]; then
+              gh issue create --title "$title" --body "$body" || true
+            else
+              gh issue comment "$existing" --body "$body" || true
+            fi
+          fi
