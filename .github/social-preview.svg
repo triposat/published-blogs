@@ -1,0 +1,33 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1280" height="640" fill="none" stroke="#21262d" stroke-width="2"/>
+
+  <!-- terminal window -->
+  <rect x="140" y="120" width="1000" height="400" rx="14" fill="#0b0e14" stroke="#30363d" stroke-width="1.5"/>
+  <!-- window dots -->
+  <circle cx="176" cy="156" r="7" fill="#ff5f56"/>
+  <circle cx="200" cy="156" r="7" fill="#ffbd2e"/>
+  <circle cx="224" cy="156" r="7" fill="#27c93f"/>
+  <line x1="140" y1="184" x2="1140" y2="184" stroke="#30363d" stroke-width="1.5"/>
+
+  <g font-family="'SF Mono','JetBrains Mono','Menlo',monospace">
+    <!-- whoami -->
+    <text x="184" y="248" font-size="26" fill="#8b949e">$ whoami</text>
+    <text x="184" y="298" font-size="52" font-weight="700" fill="#e6edf3">Satyam Tripathi</text>
+
+    <!-- writes -->
+    <text x="184" y="366" font-size="26" fill="#8b949e">$ writes</text>
+    <text x="184" y="408" font-size="34" fill="#58a6ff">web scraping · data extraction · AI</text>
+
+    <!-- for -->
+    <text x="184" y="470" font-size="26" fill="#8b949e">$ for</text>
+    <text x="184" y="500" font-size="24" fill="#7ee787">Apify · Bright Data · ScrapingBee · ScrapingAnt<tspan fill="#8b949e"> _</tspan></text>
+  </g>
+</svg>
