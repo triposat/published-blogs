@@ -1,4 +1,4 @@
-**I've also ghostwritten 150+ articles for companies in the web scraping and data space. These aren't public since the work is under client confidentiality, but I'm happy to share samples if you'd like.**
+**I've ghostwritten 150+ articles for companies in the web scraping and data space. These aren't public since the work is under client confidentiality, but I'm happy to share samples if you'd like.**
 
 ## Apify
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
