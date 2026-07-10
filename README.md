@@ -1,4 +1,4 @@
-*The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.
+**The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.**
 
 ## Apify
 - [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
@@ -9,8 +9,8 @@
 - [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
 - [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
 - [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
-- [Go vs. Python: What is the difference in 2024?](https://blog.apify.com/go-vs-python/)
-- [How to do web crawling](https://blog.apify.com/python-webcrawling/)
+- [Go vs. Python: pros and cons](https://blog.apify.com/go-vs-python/)
+- [How to build a Python web crawler step-by-step](https://blog.apify.com/python-webcrawling/)
 - [How to scrape Google Maps data using Python](https://crawlee.dev/blog/scrape-google-maps)
 - [Find elements in Selenium](https://blog.apify.com/selenium-find-elements/)
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
@@ -62,11 +62,11 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2024](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
-- [How To Bypass Cloudflare Antibot Protection At Scale In 2024](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
+- [Cloudflare Scraper: How to Bypass Cloudflare With ScrapingBee API](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
 - [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
 - [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
-- [How To Scrape Websites With Cloudscraper (Python Example)](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
+- [Cloudscraper Python guide: Scrape Cloudflare sites step by step](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
 - [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 - [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
 - [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
