@@ -1,4 +1,4 @@
-**The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.**
+*The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
 - [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
