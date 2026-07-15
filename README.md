@@ -62,6 +62,8 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [Declarative Web Automation: Transitioning from CSS Selectors to ReAct Agent Loops](https://www.scrapingbee.com/blog/ai-agent-web-automation-css-selectors-vs-react/)
+- [How to Track Competitor Prices Using Web Scraping (Python Tutorial)](https://www.scrapingbee.com/blog/how-to-track-competitor-pricing-with-scraping/)
 - [Cloudflare Scraper: How to Bypass Cloudflare With ScrapingBee API](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
 - [How To Set Up A Rotating Proxy In Puppeteer](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-puppeteer/)
 - [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
