@@ -62,6 +62,7 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [Parsing TDMRep and AI.txt: Purpose-Based Scraping Controls](https://www.scrapingbee.com/blog/tdmrep-ai-txt-scraping-controls/)
 - [Declarative Web Automation: Transitioning from CSS Selectors to ReAct Agent Loops](https://www.scrapingbee.com/blog/ai-agent-web-automation-css-selectors-vs-react/)
 - [How to Track Competitor Prices Using Web Scraping (Python Tutorial)](https://www.scrapingbee.com/blog/how-to-track-competitor-pricing-with-scraping/)
 - [Cloudflare Scraper: How to Bypass Cloudflare With ScrapingBee API](https://www.scrapingbee.com/blog/how-to-bypass-cloudflare-antibot-protection-at-scale/)
