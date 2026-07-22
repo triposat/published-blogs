@@ -29,6 +29,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Running Amazon Nova Act agents in production with Bright Data](https://brightdata.com/blog/ai/amazon-nova-act-agents-with-bright-data)
 - [Build Web Scrapers from a Prompt with Kiro and Bright Data](https://brightdata.com/blog/ai/web-scrapers-with-kiro-power)
 - [Build an account research agent in Salesforce Agentforce with Bright Data](https://brightdata.com/blog/ai/salesforce-agentforce-bright-data)
 - [Web Scraping with Scrapling: A Python Tutorial (2026)](https://brightdata.com/blog/web-data/web-scraping-with-scrapling)
