@@ -1,6 +1,7 @@
 *The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
+- [Bing rank tracker: 3 ways to check your rankings](https://blog.apify.com/bing-rank-tracker/)
 - [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
 - [Measure LLM brand visibility: a data-driven approach](https://blog.apify.com/measure-llm-brand-visibility/)
 - [Build your own ad monitoring tool with Apify in a day](https://blog.apify.com/build-your-own-ad-monitoring-tool/)
