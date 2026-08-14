@@ -1,6 +1,7 @@
 *The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
+- [How AI agents use competitor data (and how to build one)](https://blog.apify.com/how-ai-agents-use-competitor-data/)
 - [AI agent infrastructure stack: from web data to retrieval](https://blog.apify.com/ai-agent-infrastructure/)
 - [Bing rank tracker: 3 ways to check your rankings](https://blog.apify.com/bing-rank-tracker/)
 - [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
