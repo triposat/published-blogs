@@ -32,6 +32,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Building Production AI Agents with TrueFoundry Agent Harness + Bright Data MCP](https://brightdata.com/blog/ai/truefoundry-agent-harness-with-bright-data)
 - [Build a Semantic Job Search Engine with Bright Data, LanceDB, and Cohere](https://brightdata.com/blog/ai/semantic-job-search-engine-with-bright-data-lancedb-and-cohere)
 - [Running Amazon Nova Act agents in production with Bright Data](https://brightdata.com/blog/ai/amazon-nova-act-agents-with-bright-data)
 - [Build Web Scrapers from a Prompt with Kiro and Bright Data](https://brightdata.com/blog/ai/web-scrapers-with-kiro-power)
