@@ -32,6 +32,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [How to feed Amazon Bedrock Knowledge Bases with live web data using Bright Data](https://brightdata.com/blog/how-tos/amazon-bedrock-knowledge-bases-with-bright-data)
 - [Internet Archive vs Common Crawl vs web archive](https://brightdata.com/blog/web-data/internet-archive-vs-common-crawl-vs-web-archive)
 - [Building Production AI Agents with TrueFoundry Agent Harness + Bright Data MCP](https://brightdata.com/blog/ai/truefoundry-agent-harness-with-bright-data)
 - [Build a Semantic Job Search Engine with Bright Data, LanceDB, and Cohere](https://brightdata.com/blog/ai/semantic-job-search-engine-with-bright-data-lancedb-and-cohere)
