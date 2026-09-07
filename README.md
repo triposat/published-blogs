@@ -33,6 +33,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Cursor + Bright Data vs a default coding agent setup: building a real price tracker](https://brightdata.com/blog/ai/cursor-bright-data-vs-default-coding-agent)
 - [How to feed Amazon Bedrock Knowledge Bases with live web data using Bright Data](https://brightdata.com/blog/how-tos/amazon-bedrock-knowledge-bases-with-bright-data)
 - [Internet Archive vs Common Crawl vs web archive](https://brightdata.com/blog/web-data/internet-archive-vs-common-crawl-vs-web-archive)
 - [Building Production AI Agents with TrueFoundry Agent Harness + Bright Data MCP](https://brightdata.com/blog/ai/truefoundry-agent-harness-with-bright-data)
@@ -71,6 +72,7 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [MCP servers for web scraping: carry control, not data](https://www.scrapingbee.com/blog/mcp-servers-web-scraping/)
 - [Parsing TDMRep and AI.txt: Purpose-Based Scraping Controls](https://www.scrapingbee.com/blog/tdmrep-ai-txt-scraping-controls/)
 - [Declarative Web Automation: Transitioning from CSS Selectors to ReAct Agent Loops](https://www.scrapingbee.com/blog/ai-agent-web-automation-css-selectors-vs-react/)
 - [How to Track Competitor Prices Using Web Scraping (Python Tutorial)](https://www.scrapingbee.com/blog/how-to-track-competitor-pricing-with-scraping/)
