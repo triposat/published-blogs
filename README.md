@@ -109,6 +109,9 @@
 - [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
+## Evomi
+- [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
+
 ## DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
