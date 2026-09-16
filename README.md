@@ -73,6 +73,7 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [How to scrape Google Trends with Python using ScrapingBee](https://www.scrapingbee.com/blog/google-trends-scraper/)
 - [Zero-Shot E-Commerce Scraping: Call the LLM Last](https://www.scrapingbee.com/blog/ecommerce-scraping-cascade-scrapy-local-llm/)
 - [MCP servers for web scraping: carry control, not data](https://www.scrapingbee.com/blog/mcp-servers-web-scraping/)
 - [Parsing TDMRep and AI.txt: Purpose-Based Scraping Controls](https://www.scrapingbee.com/blog/tdmrep-ai-txt-scraping-controls/)
