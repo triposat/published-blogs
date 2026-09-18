@@ -33,6 +33,8 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [How to Scrape Etsy: 2026 Guide](https://brightdata.com/blog/web-data/how-to-scrape-etsy)
+- [How to Scrape Pinterest in 2026](https://brightdata.com/blog/web-data/how-to-scrape-pinterest)
 - [Giving self-hosted MiniMax M3 agents live web access with Bright Data](https://brightdata.com/blog/ai/minimax-m3-with-bright-data)
 - [Cursor + Bright Data vs a default coding agent setup: building a real price tracker](https://brightdata.com/blog/ai/cursor-bright-data-vs-default-coding-agent)
 - [How to feed Amazon Bedrock Knowledge Bases with live web data using Bright Data](https://brightdata.com/blog/how-tos/amazon-bedrock-knowledge-bases-with-bright-data)
