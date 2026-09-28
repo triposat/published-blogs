@@ -113,6 +113,7 @@
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Evomi
+- [Scraper API vs. Scraping Browser: When to Use Each One](https://evomi.com/blog/scraper-api-vs-scraping-browser)
 - [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
 
 ## GoLogin
