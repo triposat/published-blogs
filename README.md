@@ -115,6 +115,9 @@
 ## Evomi
 - [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
 
+## GoLogin
+- [Playwright Automation Tool in the Cloud: Setup & Benchmarks](https://gologin.com/blog/playwright-automation-tool-in-the-cloud/)
+
 ## DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
