@@ -1,4 +1,4 @@
-*The articles below are published under my name. I've also ghostwritten 100+ more for web scraping and data companies. Those aren't public, but I can share samples.
+*The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.*
 
 ## Apify
 - [Clutch.co data: how to collect it and what it reveals about agency rankings](https://blog.apify.com/clutch-co-data/)
