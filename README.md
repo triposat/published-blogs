@@ -39,7 +39,7 @@
 - [Cursor + Bright Data vs a default coding agent setup: building a real price tracker](https://brightdata.com/blog/ai/cursor-bright-data-vs-default-coding-agent)
 - [How to feed Amazon Bedrock Knowledge Bases with live web data using Bright Data](https://brightdata.com/blog/how-tos/amazon-bedrock-knowledge-bases-with-bright-data)
 - [Internet Archive vs Common Crawl vs web archive](https://brightdata.com/blog/web-data/internet-archive-vs-common-crawl-vs-web-archive)
-- [Building Production AI Agents with TrueFoundry Agent Harness + Bright Data MCP](https://brightdata.com/blog/ai/truefoundry-agent-harness-with-bright-data)
+- [Building Production AI Agents with TrueForge + Bright Data MCP](https://brightdata.com/blog/ai/trueforge-with-bright-data)
 - [Build a Semantic Job Search Engine with Bright Data, LanceDB, and Cohere](https://brightdata.com/blog/ai/semantic-job-search-engine-with-bright-data-lancedb-and-cohere)
 - [Running Amazon Nova Act agents in production with Bright Data](https://brightdata.com/blog/ai/amazon-nova-act-agents-with-bright-data)
 - [Build Web Scrapers from a Prompt with Kiro and Bright Data](https://brightdata.com/blog/ai/web-scrapers-with-kiro-power)
