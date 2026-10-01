@@ -76,6 +76,8 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [Undetected ChromeDriver in Python: 2026 Guide and Alternatives](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
+- [Nodriver Python Tutorial: Stealth Web Scraping in 2026](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 - [How to scrape Google Trends with Python using ScrapingBee](https://www.scrapingbee.com/blog/google-trends-scraper/)
 - [Zero-Shot E-Commerce Scraping: Call the LLM Last](https://www.scrapingbee.com/blog/ecommerce-scraping-cascade-scrapy-local-llm/)
 - [MCP servers for web scraping: carry control, not data](https://www.scrapingbee.com/blog/mcp-servers-web-scraping/)
@@ -87,10 +89,8 @@
 - [How To Set Up A Rotating Proxy In Selenium With Python](https://www.scrapingbee.com/blog/how-to-set-up-a-rotating-proxy-in-selenium-with-python/)
 - [10 Tips on How to make Python's Beautiful Soup faster when scraping](https://www.scrapingbee.com/blog/how-to-make-pythons-beautiful-soup-faster-performance/)
 - [Cloudscraper Python guide: Scrape Cloudflare sites step by step](https://www.scrapingbee.com/blog/how-to-scrape-websites-with-cloudscraper-python-example/)
-- [Scraping With Nodriver: Step By Step Tutorial With Examples](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 - [BeautifulSoup tutorial: Scraping web pages with Python](https://www.scrapingbee.com/blog/python-web-scraping-beautiful-soup/)
 - [How to bypass error 1005 'access denied, you have been banned' when scraping](https://www.scrapingbee.com/blog/bypass-error-1005-access-denied-you-have-been-banned/)
-- [How To Use Undetected_chromedriver (Plus Working Alternatives)](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
 - [Scrapy Playwright Tutorial: How to Scrape Dynamic Websites](https://www.scrapingbee.com/blog/scrapy-playwright-tutorial/)
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
 
