@@ -1,6 +1,7 @@
 *The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.*
 
 ## Apify
+- [AI agent vs. MCP server: which one should you build?](https://blog.apify.com/ai-agent-vs-mcp-server/)
 - [How to ground a LlamaIndex RAG app in fresh web data](https://blog.apify.com/llamaindex-rag-web-data/)
 - [Clutch.co data: how to collect it and what it reveals about agency rankings](https://blog.apify.com/clutch-co-data/)
 - [How AI agents use competitor data (and how to build one)](https://blog.apify.com/how-ai-agents-use-competitor-data/)
