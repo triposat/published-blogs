@@ -1,4 +1,4 @@
-*The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.*
+*The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
 - [AI agent vs. MCP server: which one should you build?](https://blog.apify.com/ai-agent-vs-mcp-server/)
