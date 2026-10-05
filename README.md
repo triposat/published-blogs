@@ -123,14 +123,18 @@
 - [Browser Automation Tools 2026: Playwright vs Puppeteer](https://gologin.com/blog/browser-automation-tools/)
 - [Playwright Automation Tool in the Cloud: Setup & Benchmarks](https://gologin.com/blog/playwright-automation-tool-in-the-cloud/)
 
-## DataCamp
+## Earlier writing
+
+Tutorials on Python, data science and JavaScript, including my first web scraping guides.
+
+### DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
 - [Pandas Profiling (ydata-profiling) in Python: A Guide for Beginners](https://www.datacamp.com/tutorial/pandas-profiling-ydata-profiling-in-python-guide)
 - [Pandas Reset Index Tutorial](https://www.datacamp.com/tutorial/pandas-reset-index-tutorial)
 - [MongoDB Certification: A Complete Guide](https://www.datacamp.com/blog/mongodb-certification)
 - [Adagrad Optimizer Explained: How It Works, Implementation, & Comparisons](https://www.datacamp.com/tutorial/adagrad-optimizer-explained)
 
-## OpenReplay
+### OpenReplay
 - [Data Analysis With Data-Forge](https://blog.openreplay.com/data-analysis-with-data-forge/)
 - [Web Scraping With Node.Js And Cheerio](https://blog.openreplay.com/web-scraping-with-node-js-and-cheerio/)
 - [Formatting Compact Numbers With JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/)
