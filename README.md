@@ -35,6 +35,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Auto parts and tire data: pricing, fitment, product matching, and market coverage](https://brightdata.com/blog/web-data/auto-parts-and-tire-data)
 - [How to Scrape Etsy: 2026 Guide](https://brightdata.com/blog/web-data/how-to-scrape-etsy)
 - [How to Scrape Pinterest in 2026](https://brightdata.com/blog/web-data/how-to-scrape-pinterest)
 - [Giving self-hosted MiniMax M3 agents live web access with Bright Data](https://brightdata.com/blog/ai/minimax-m3-with-bright-data)
@@ -77,6 +78,8 @@
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [Bots Block Bots: Why Anti-Bot Systems Flag LLM Browsers](https://www.scrapingbee.com/blog/bots-blocking-bots-in-llm-driven-browsers/)
+- [How to Build a Data Retriever With Dify AI Agents](https://www.scrapingbee.com/blog/how-to-build-data-retriever-with-dify-ai-agents/)
 - [Undetected ChromeDriver in Python: 2026 Guide and Alternatives](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
 - [Nodriver Python Tutorial: Stealth Web Scraping in 2026](https://www.scrapingbee.com/blog/nodriver-tutorial/)
 - [How to scrape Google Trends with Python using ScrapingBee](https://www.scrapingbee.com/blog/google-trends-scraper/)
