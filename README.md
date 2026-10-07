@@ -35,6 +35,7 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [How to Bypass Kasada in 2026](https://brightdata.com/blog/how-tos/how-to-bypass-kasada)
 - [Auto parts and tire data: pricing, fitment, product matching, and market coverage](https://brightdata.com/blog/web-data/auto-parts-and-tire-data)
 - [How to Scrape Etsy: 2026 Guide](https://brightdata.com/blog/web-data/how-to-scrape-etsy)
 - [How to Scrape Pinterest in 2026](https://brightdata.com/blog/web-data/how-to-scrape-pinterest)
