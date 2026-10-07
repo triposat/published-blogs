@@ -35,6 +35,14 @@
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [How to Scrape AliExpress Data at Scale](https://brightdata.com/blog/web-data/how-to-scrape-aliexpress)
+- [How to Scrape Target Products at Scale](https://brightdata.com/blog/web-data/scrape-target)
+- [How to Scrape ZoomInfo at Scale](https://brightdata.com/blog/web-data/how-to-scrape-zoominfo)
+- [How to Scrape Yahoo Finance in Python](https://brightdata.com/blog/how-tos/scrape-yahoo-finance-guide)
+- [How to Scrape Walmart at Scale](https://brightdata.com/blog/how-tos/guide-to-scraping-walmart)
+- [How to Scrape Yelp in Python: Businesses and Reviews](https://brightdata.com/blog/how-tos/how-to-scrape-yelp-guide)
+- [How to Scrape Zillow Without Missing Data](https://brightdata.com/blog/web-data/how-to-scrape-zillow)
+- [How to Scrape Naver Shopping and SmartStore Data](https://brightdata.com/blog/web-data/how-to-scrape-naver)
 - [How to Bypass Kasada in 2026](https://brightdata.com/blog/how-tos/how-to-bypass-kasada)
 - [Auto parts and tire data: pricing, fitment, product matching, and market coverage](https://brightdata.com/blog/web-data/auto-parts-and-tire-data)
 - [How to Scrape Etsy: 2026 Guide](https://brightdata.com/blog/web-data/how-to-scrape-etsy)
