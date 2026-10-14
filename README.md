@@ -1,4 +1,4 @@
-<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published work by Satyam Tripathi, bylined articles for web data and AI companies" width="100%"></a>
+<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published work by Satyam Tripathi, articles I wrote for web data and AI companies" width="100%"></a>
 
 The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
 
