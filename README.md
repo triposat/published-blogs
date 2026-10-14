@@ -1,4 +1,6 @@
-*The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
+<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published work by Satyam Tripathi, bylined articles for web data and AI companies" width="100%"></a>
+
+The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
 - [Model collapse: why AI models degrade and how to prevent it](https://blog.apify.com/improve-ai-models-web-scraping-data-augmentation/)
@@ -163,4 +165,4 @@ Tutorials on Python, data science and JavaScript, including my first web scrapin
 
 My other software and CS articles are over in [dev-articles](https://github.com/triposat/dev-articles).
 
-Find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
