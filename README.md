@@ -39,6 +39,8 @@ The articles below are published under my name. I've also ghostwritten many more
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Cherry Studio MCP Tutorial: Add Bright Data for Web Search and Scraping](https://brightdata.com/blog/ai/cherry-studio-with-bright-data)
+- [Microsoft Agent Framework MCP Server: Add Live Web Search and Scraping with Bright Data](https://brightdata.com/blog/ai/microsoft-agent-framework-with-web-mcp)
 - [Bright Data vs. Parallel: Which Web Search API Is Right for Your AI Agent?](https://brightdata.com/blog/comparison/bright-data-vs-parallel)
 - [Claude Code Routines: Schedule Daily Web Monitoring with Bright Data](https://brightdata.com/blog/ai/claude-code-routines)
 - [Is There a Google Search API? Options After Custom Search](https://brightdata.com/blog/web-data/google-search-api)
