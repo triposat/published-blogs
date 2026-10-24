@@ -138,6 +138,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Evomi
+- [Benchmarking Datacenter Proxies Under Concurrency](https://evomi.com/blog/benchmark-datacenter-proxies-concurrency)
 - [How to Verify a Mobile Proxy's Carrier, ASN, and Location](https://evomi.com/blog/verify-mobile-proxy-carrier-asn-location)
 - [Scraper API Retry Handling for Production Pipelines](https://evomi.com/blog/scraper-api-retry-handling)
 - [Cross-Country Ecommerce Price Monitoring: How to Get and Prove Local Prices](https://evomi.com/blog/cross-country-price-monitoring)
