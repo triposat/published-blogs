@@ -146,6 +146,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
 
 ## GoLogin
+- [Kernel.sh Review 2026: Speed, Concurrency and Real Pricing](https://gologin.com/blog/kernel-sh-review/)
 - [Website Automation for Logged-In Accounts: 2026 Guide](https://gologin.com/blog/website-automation-for-logged-in-accounts/)
 - [Cloudflare Browser Rendering: Benchmark, Limits & Cloud Alternatives](https://gologin.com/blog/cloudflare-browser-rendering/)
 - [Browser as a Service (BaaS): Architecture, Use Cases & 2026 Guide](https://gologin.com/blog/browser-as-a-service/)
