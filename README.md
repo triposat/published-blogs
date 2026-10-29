@@ -98,6 +98,8 @@ The articles below are published under my name. I've also ghostwritten many more
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
 ## ScrapingBee
+- [Auto-Repairing Web Scraping: Self-Healing Selenium Workflows](https://www.scrapingbee.com/blog/auto-repairing-web-scraping-selenium-autoqallms/)
+- [Playwright & Puppeteer on AWS Lambda: Serverless Scraping Guide](https://www.scrapingbee.com/blog/playwright-puppeteer-aws-lambda-web-scraping/)
 - [Bots Block Bots: Why Anti-Bot Systems Flag LLM Browsers](https://www.scrapingbee.com/blog/bots-blocking-bots-in-llm-driven-browsers/)
 - [How to Build a Data Retriever With Dify AI Agents](https://www.scrapingbee.com/blog/how-to-build-data-retriever-with-dify-ai-agents/)
 - [Undetected ChromeDriver in Python: 2026 Guide and Alternatives](https://www.scrapingbee.com/blog/undetected-chromedriver-python-tutorial-avoiding-bot-detection/)
