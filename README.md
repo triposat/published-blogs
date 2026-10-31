@@ -140,6 +140,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Evomi
+- [Error 407 Proxy Authentication Required: Causes and Fixes](https://evomi.com/blog/407-proxy-authentication-required)
 - [Benchmarking Datacenter Proxies Under Concurrency](https://evomi.com/blog/benchmark-datacenter-proxies-concurrency)
 - [How to Verify a Mobile Proxy's Carrier, ASN, and Location](https://evomi.com/blog/verify-mobile-proxy-carrier-asn-location)
 - [Scraper API Retry Handling for Production Pipelines](https://evomi.com/blog/scraper-api-retry-handling)
