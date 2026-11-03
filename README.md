@@ -3,6 +3,7 @@
 The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
 
 ## Apify
+- [AI agents hallucinate prices: LLM grounding with live data](https://blog.apify.com/llm-grounding-with-live-data/)
 - [Best AI tools for small business: 8 affordable picks by job](https://blog.apify.com/best-ai-tools-for-small-business/)
 - [Model collapse: why AI models degrade and how to prevent it](https://blog.apify.com/improve-ai-models-web-scraping-data-augmentation/)
 - [How to do question answering from a PDF with Python and RAG](https://blog.apify.com/how-to-do-question-answering-from-a-pdf/)
