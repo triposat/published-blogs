@@ -150,6 +150,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
 
 ## GoLogin
+- [Anchor Browser Review 2026: Profiles, Anti-Bot Tests, Speed and Real Pricing](https://gologin.com/blog/anchor-browser-review/)
 - [Lightpanda headless browser review: speed, concurrency, and real pricing](https://gologin.com/blog/lightpanda-review/)
 - [Python Web Crawler: How to Build One That Scales With Asyncio](https://gologin.com/blog/python-web-crawler/)
 - [Kernel.sh Review 2026: Speed, Concurrency and Real Pricing](https://gologin.com/blog/kernel-sh-review/)
