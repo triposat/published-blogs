@@ -41,6 +41,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## Bright Data
+- [Consumer Electronics Retail Data: Pricing, Product Matching, and Retailer Coverage](https://brightdata.com/blog/web-data/consumer-electronics-retail-data)
 - [DSPy MCP Server: Build a Web Research Agent with Bright Data](https://brightdata.com/blog/ai/dspy-with-bright-data)
 - [Cherry Studio MCP Tutorial: Add Bright Data for Web Search and Scraping](https://brightdata.com/blog/ai/cherry-studio-with-bright-data)
 - [Microsoft Agent Framework MCP Server: Add Live Web Search and Scraping with Bright Data](https://brightdata.com/blog/ai/microsoft-agent-framework-with-web-mcp)
