@@ -44,7 +44,7 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
 - [The Ultimate Guide to Proxy IP Types](https://brightdata.com/blog/proxy-101/ultimate-guide-to-proxy-types)
 - [What Is an ETL Pipeline? A Guide for Web Data Sources](https://brightdata.com/blog/proxy-101/etl-pipeline)
-- [What Is WebMCP? How It Works and What It Means for AI Agents](https://brightdata.com/blog/ai/webmcp-and-what-it-means-for-ai-agents)
+- [What Is WebMCP? How It Works and What It Means for AI Agents](https://brightdata.com/blog/ai/what-is-webmcp)
 - [Lightpanda vs Playwright and Headless Chrome: When a Lightweight Browser Is Enough](https://brightdata.com/blog/comparison/lightpanda-vs-playwright-and-headless-chrome)
 - [Consumer Electronics Retail Data: Pricing, Product Matching, and Retailer Coverage](https://brightdata.com/blog/web-data/consumer-electronics-retail-data)
 - [DSPy MCP Server: Build a Web Research Agent with Bright Data](https://brightdata.com/blog/ai/dspy-with-bright-data)
