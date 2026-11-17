@@ -89,23 +89,16 @@ For engagements, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or messag
 - [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
 - [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
 - [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
-- [Go vs. Python: pros and cons](https://blog.apify.com/go-vs-python/)
 - [How to build a Python web crawler step-by-step](https://blog.apify.com/python-webcrawling/)
 - [How to scrape Google Maps data using Python](https://crawlee.dev/blog/scrape-google-maps)
 - [Find elements in Selenium](https://blog.apify.com/selenium-find-elements/)
 - [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
 - [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
 - [How to parse XML](https://blog.apify.com/python-parse-xml/)
-- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
 - [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
 - [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
-- [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
 - [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
-- [How to save an image with Python](https://blog.apify.com/save-image-python/)
-- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
 - [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
-- [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
-- [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
 - [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
 
 ## ScrapingBee
@@ -173,6 +166,15 @@ For engagements, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or messag
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Earlier writing
+
+### Apify
+- [Go vs. Python: pros and cons](https://blog.apify.com/go-vs-python/)
+- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
+- [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
+- [How to save an image with Python](https://blog.apify.com/save-image-python/)
+- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
+- [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
+- [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
 
 ### DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
