@@ -2,43 +2,7 @@
 
 The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
 
-## Apify
-- [AI agents hallucinate prices: LLM grounding with live data](https://blog.apify.com/llm-grounding-with-live-data/)
-- [Best AI tools for small business: 8 affordable picks by job](https://blog.apify.com/best-ai-tools-for-small-business/)
-- [Model collapse: why AI models degrade and how to prevent it](https://blog.apify.com/improve-ai-models-web-scraping-data-augmentation/)
-- [How to do question answering from a PDF with Python and RAG](https://blog.apify.com/how-to-do-question-answering-from-a-pdf/)
-- [AI agent vs. MCP server: which one should you build?](https://blog.apify.com/ai-agent-vs-mcp-server/)
-- [How to ground a LlamaIndex RAG app in fresh web data](https://blog.apify.com/llamaindex-rag-web-data/)
-- [Clutch.co data: how to collect it and what it reveals about agency rankings](https://blog.apify.com/clutch-co-data/)
-- [How AI agents use competitor data (and how to build one)](https://blog.apify.com/how-ai-agents-use-competitor-data/)
-- [AI agent infrastructure stack: from web data to retrieval](https://blog.apify.com/ai-agent-infrastructure/)
-- [Bing rank tracker: 3 ways to check your rankings](https://blog.apify.com/bing-rank-tracker/)
-- [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
-- [Measure LLM brand visibility: a data-driven approach](https://blog.apify.com/measure-llm-brand-visibility/)
-- [Build your own ad monitoring tool with Apify in a day](https://blog.apify.com/build-your-own-ad-monitoring-tool/)
-- [Real-time compensation benchmarking: A hands-on guide](https://blog.apify.com/real-time-compensation-benchmarking/)
-- [Talent market intelligence: A hands-on guide for recruiters](https://blog.apify.com/talent-market-intelligence/)
-- [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
-- [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
-- [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
-- [Go vs. Python: pros and cons](https://blog.apify.com/go-vs-python/)
-- [How to build a Python web crawler step-by-step](https://blog.apify.com/python-webcrawling/)
-- [How to scrape Google Maps data using Python](https://crawlee.dev/blog/scrape-google-maps)
-- [Find elements in Selenium](https://blog.apify.com/selenium-find-elements/)
-- [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
-- [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
-- [How to parse XML](https://blog.apify.com/python-parse-xml/)
-- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
-- [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
-- [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
-- [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
-- [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
-- [How to save an image with Python](https://blog.apify.com/save-image-python/)
-- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
-- [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
-- [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
-- [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
-- [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
+To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/). Tell me which article below you liked best, and why.
 
 ## Bright Data
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
@@ -104,6 +68,44 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Pagination in Web Scraping Guide](https://brightdata.com/blog/web-data/pagination-web-scraping)
 - [How to Scrape Glassdoor: Step-By-Step Guide 2026](https://brightdata.com/blog/web-data/how-to-scrape-glassdoor)
 
+## Apify
+- [AI agents hallucinate prices: LLM grounding with live data](https://blog.apify.com/llm-grounding-with-live-data/)
+- [Best AI tools for small business: 8 affordable picks by job](https://blog.apify.com/best-ai-tools-for-small-business/)
+- [Model collapse: why AI models degrade and how to prevent it](https://blog.apify.com/improve-ai-models-web-scraping-data-augmentation/)
+- [How to do question answering from a PDF with Python and RAG](https://blog.apify.com/how-to-do-question-answering-from-a-pdf/)
+- [AI agent vs. MCP server: which one should you build?](https://blog.apify.com/ai-agent-vs-mcp-server/)
+- [How to ground a LlamaIndex RAG app in fresh web data](https://blog.apify.com/llamaindex-rag-web-data/)
+- [Clutch.co data: how to collect it and what it reveals about agency rankings](https://blog.apify.com/clutch-co-data/)
+- [How AI agents use competitor data (and how to build one)](https://blog.apify.com/how-ai-agents-use-competitor-data/)
+- [AI agent infrastructure stack: from web data to retrieval](https://blog.apify.com/ai-agent-infrastructure/)
+- [Bing rank tracker: 3 ways to check your rankings](https://blog.apify.com/bing-rank-tracker/)
+- [AI Overviews optimization: get cited, not just ranked](https://blog.apify.com/ai-overviews-optimization/)
+- [Measure LLM brand visibility: a data-driven approach](https://blog.apify.com/measure-llm-brand-visibility/)
+- [Build your own ad monitoring tool with Apify in a day](https://blog.apify.com/build-your-own-ad-monitoring-tool/)
+- [Real-time compensation benchmarking: A hands-on guide](https://blog.apify.com/real-time-compensation-benchmarking/)
+- [Talent market intelligence: A hands-on guide for recruiters](https://blog.apify.com/talent-market-intelligence/)
+- [TikTok lead generation: organic, paid, and scraping compared](https://blog.apify.com/tiktok-lead-generation/)
+- [YouTube trending topics: How to track what's going viral](https://blog.apify.com/youtube-trending-topics/)
+- [How to use the Google Maps API in Python](https://blog.apify.com/google-maps-api-python/)
+- [Go vs. Python: pros and cons](https://blog.apify.com/go-vs-python/)
+- [How to build a Python web crawler step-by-step](https://blog.apify.com/python-webcrawling/)
+- [How to scrape Google Maps data using Python](https://crawlee.dev/blog/scrape-google-maps)
+- [Find elements in Selenium](https://blog.apify.com/selenium-find-elements/)
+- [How to scrape Google Finance](https://blog.apify.com/scrape-google-finance-python/)
+- [How to scrape Yahoo Finance](https://blog.apify.com/scrape-yahoo-finance-python/)
+- [How to parse XML](https://blog.apify.com/python-parse-xml/)
+- [Python cache: a complete guide](https://blog.apify.com/python-cache-complete-guide/)
+- [Python lxml tutorial](https://blog.apify.com/python-lxml-tutorial/)
+- [How to handle timeouts in Python Requests](https://blog.apify.com/python-requests-timeout/)
+- [Python dictionaries: a comprehensive guide for devs](https://blog.apify.com/python-dictionaries-ultimate-guide/)
+- [How to post JSON data with Python Requests](https://blog.apify.com/python-post-request/)
+- [How to save an image with Python](https://blog.apify.com/save-image-python/)
+- [Python tuple vs. list](https://blog.apify.com/python-tuple-vs-list/)
+- [How to parse HTML in Python with PyQuery or Beautiful Soup](https://blog.apify.com/how-to-parse-html-in-python/)
+- [How to use the Discord API in Python](https://blog.apify.com/python-discord-api/)
+- [How to use the GitHub API in Python](https://blog.apify.com/python-github-api/)
+- [How to use Python to connect and interact with APIs](https://blog.apify.com/python-and-apis/)
+
 ## ScrapingBee
 - [Auto-Repairing Web Scraping: Self-Healing Selenium Workflows](https://www.scrapingbee.com/blog/auto-repairing-web-scraping-selenium-autoqallms/)
 - [Playwright & Puppeteer on AWS Lambda: Serverless Scraping Guide](https://www.scrapingbee.com/blog/playwright-puppeteer-aws-lambda-web-scraping/)
@@ -142,20 +144,6 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Web Scraping with Playwright Series Part 2 - Building a Scraper](https://scrapingant.com/blog/web-scraping-playwright-python-part-2)
 - [Web Scraping with Playwright Series Part 1 - Getting Started](https://scrapingant.com/blog/web-scraping-playwright-python-part-1)
 
-## Scrape.do
-- [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
-- [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
-
-## Evomi
-- [HTTP 499 Client Closed Request: What It Means and How to Fix It](https://evomi.com/blog/http-499-status-code)
-- [Error 407 Proxy Authentication Required: Causes and Fixes](https://evomi.com/blog/407-proxy-authentication-required)
-- [Benchmarking Datacenter Proxies Under Concurrency](https://evomi.com/blog/benchmark-datacenter-proxies-concurrency)
-- [How to Verify a Mobile Proxy's Carrier, ASN, and Location](https://evomi.com/blog/verify-mobile-proxy-carrier-asn-location)
-- [Scraper API Retry Handling for Production Pipelines](https://evomi.com/blog/scraper-api-retry-handling)
-- [Cross-Country Ecommerce Price Monitoring: How to Get and Prove Local Prices](https://evomi.com/blog/cross-country-price-monitoring)
-- [Scraper API vs. Scraping Browser: When to Use Each One](https://evomi.com/blog/scraper-api-vs-scraping-browser)
-- [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
-
 ## GoLogin
 - [Obscura Headless Browser Review: Speed, Concurrency, & Total Cost](https://gologin.com/blog/obscura-review/)
 - [Anchor Browser Review 2026: Profiles, Anti-Bot Tests, Speed and Real Pricing](https://gologin.com/blog/anchor-browser-review/)
@@ -167,6 +155,20 @@ The articles below are published under my name. I've also ghostwritten many more
 - [Browser as a Service (BaaS): Architecture, Use Cases & 2026 Guide](https://gologin.com/blog/browser-as-a-service/)
 - [Browser Automation Tools 2026: Playwright vs Puppeteer](https://gologin.com/blog/browser-automation-tools/)
 - [Playwright Automation Tool in the Cloud: Setup & Benchmarks](https://gologin.com/blog/playwright-automation-tool-in-the-cloud/)
+
+## Evomi
+- [HTTP 499 Client Closed Request: What It Means and How to Fix It](https://evomi.com/blog/http-499-status-code)
+- [Error 407 Proxy Authentication Required: Causes and Fixes](https://evomi.com/blog/407-proxy-authentication-required)
+- [Benchmarking Datacenter Proxies Under Concurrency](https://evomi.com/blog/benchmark-datacenter-proxies-concurrency)
+- [How to Verify a Mobile Proxy's Carrier, ASN, and Location](https://evomi.com/blog/verify-mobile-proxy-carrier-asn-location)
+- [Scraper API Retry Handling for Production Pipelines](https://evomi.com/blog/scraper-api-retry-handling)
+- [Cross-Country Ecommerce Price Monitoring: How to Get and Prove Local Prices](https://evomi.com/blog/cross-country-price-monitoring)
+- [Scraper API vs. Scraping Browser: When to Use Each One](https://evomi.com/blog/scraper-api-vs-scraping-browser)
+- [Monitor website changes in Python without false alerts](https://evomi.com/blog/monitor-website-changes-python)
+
+## Scrape.do
+- [Web Scraping in Rust](https://scrape.do/blog/web-scraping-in-rust/)
+- [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Earlier writing
 
@@ -185,9 +187,3 @@ Tutorials on Python, data science and JavaScript, including my first web scrapin
 - [Formatting Compact Numbers With JavaScript](https://blog.openreplay.com/formatting-compact-numbers-with-javascript/)
 - [Step By Step: Toggling Elements Using React Hooks](https://blog.openreplay.com/step-by-step--toggling-elements-using-react-hooks/)
 - [Scraping Web Pages With Puppeteer](https://blog.openreplay.com/scraping-web-pages-with-puppeteer/)
-
----
-
-My other software and CS articles are over in [dev-articles](https://github.com/triposat/dev-articles).
-
-To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
