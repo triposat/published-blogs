@@ -2,7 +2,7 @@
 
 # Articles by Satyam Tripathi
 
-Developer content for companies that build web data and AI infrastructure. All articles below are published under my name. I also do ghostwriting; that work is available on request.
+Developer content for companies that build web data and AI infrastructure. All articles below are published under my name. I also do ghostwriting. That work is available on request.
 
 For projects, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 

@@ -38,7 +38,7 @@ jobs:
           {
             echo "## Link check"
             if [ -z "$dead" ]; then
-              echo "All links healthy ✅"
+              echo "All links are healthy."
             else
               echo "Dead links found:"
               echo "$dead"
@@ -47,7 +47,7 @@ jobs:
 
           if [ -n "$dead" ]; then
             echo "Dead links:$dead"
-            title="🔗 Broken links detected in README"
+            title="Broken links found in README"
             body="The scheduled link check found dead links:${dead}"$'\n\n'"_Run: ${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}_"
             existing=$(gh issue list --state open --json number,title \
                        --jq "[.[] | select(.title==\"$title\") | .number][0]" 2>/dev/null || true)
