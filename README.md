@@ -1,6 +1,8 @@
 <img src="assets/banner.png" alt="" width="100%">
 
-I ghostwrite for web data and AI companies. Writing samples on request.
+# Satyam Tripathi's published articles
+
+Technical writing for the companies behind web scraping, proxy, browser and AI agent infrastructure. I also ghostwrite for web data and AI companies. Writing samples on request.
 
 To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
