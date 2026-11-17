@@ -1,6 +1,6 @@
-<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published articles by Satyam Tripathi" width="100%"></a>
+<img src="assets/banner.png" alt="" width="100%">
 
-I also ghostwrite for web data and AI companies. Writing samples on request.
+I ghostwrite for web data and AI companies. Writing samples on request.
 
 To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
