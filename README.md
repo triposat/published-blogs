@@ -1,10 +1,10 @@
 <img src="assets/banner.png" alt="" width="100%">
 
-# Satyam Tripathi's published articles
+# Articles by Satyam Tripathi
 
-Technical writing for the companies behind web scraping, proxy, browser and AI agent infrastructure. I also ghostwrite for web data and AI companies. Writing samples on request.
+Developer content for the companies behind web scraping, proxy, browser and AI agent infrastructure. I also ghostwrite for web data and AI companies, and share that work on request.
 
-To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
 ## Bright Data
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
@@ -173,8 +173,6 @@ To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find 
 - [Web Scraping in Perl](https://scrape.do/blog/web-scraping-in-perl/)
 
 ## Earlier writing
-
-Earlier tutorials on Python, data science and JavaScript.
 
 ### DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
