@@ -1,6 +1,6 @@
-<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published articles by Satyam Tripathi on web scraping, proxies, browser automation and AI agents. doccraft.dev" width="100%"></a>
+<a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published articles by Satyam Tripathi" width="100%"></a>
 
-Every article below is published under my name. I also ghostwrite for web data and AI companies. Writing samples on request.
+I also ghostwrite for web data and AI companies. Writing samples on request.
 
 To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
