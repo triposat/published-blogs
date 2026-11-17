@@ -2,9 +2,9 @@
 
 # Articles by Satyam Tripathi
 
-Developer content for the companies behind web scraping, proxy, browser and AI agent infrastructure. I also ghostwrite for web data and AI companies, and share that work on request.
+Developer content for web data and AI infrastructure companies. All articles below are bylined. Ghostwritten work is available on request.
 
-To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
+For engagements, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
 ## Bright Data
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
