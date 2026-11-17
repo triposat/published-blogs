@@ -1,6 +1,6 @@
 <a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published work by Satyam Tripathi, articles I wrote for web data and AI companies" width="100%"></a>
 
-Everything below carries my byline. I also write without one for companies in this space; samples on request.
+Every article below is published under my name. I also ghostwrite for web data and AI companies. Writing samples on request.
 
 To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
