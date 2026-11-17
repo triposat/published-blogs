@@ -1,8 +1,8 @@
 <a href="https://doccraft.dev"><img src="assets/banner.png" alt="Published work by Satyam Tripathi, articles I wrote for web data and AI companies" width="100%"></a>
 
-The articles below are published under my name. I've also ghostwritten many more for web scraping and data companies. Those aren't public, but I can share samples.
+Everything below carries my byline. I also write without one for companies in this space; samples on request.
 
-To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/). Tell me which article below you liked best, and why.
+To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
 ## Bright Data
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
@@ -172,7 +172,7 @@ To work together, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or find 
 
 ## Earlier writing
 
-Tutorials on Python, data science and JavaScript, including my first web scraping guides.
+Earlier tutorials on Python, data science and JavaScript.
 
 ### DataCamp
 - [Exponents in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/exponents-in-python)
