@@ -7,6 +7,9 @@ Developer content for companies that build web data and AI infrastructure. All a
 For projects, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message me on [LinkedIn](https://www.linkedin.com/in/triposat/).
 
 ## Bright Data
+- [NVIDIA AI-Q Blueprint: Deep Research with Live Web Data](https://brightdata.com/blog/ai/nvidia-ai-q-with-bright-data)
+- [Browserbase Alternatives: 9 Competitors Compared (2026)](https://brightdata.com/blog/ai/browserbase-alternatives)
+- [Bright Data Plugin for Codex and ChatGPT: Live Web Search](https://brightdata.com/blog/ai/codex-and-chatgpt-with-bright-data)
 - [Data Pipeline Architecture for Businesses Explained](https://brightdata.com/blog/proxy-101/data-pipeline-architecture)
 - [The Ultimate Guide to Proxy IP Types](https://brightdata.com/blog/proxy-101/ultimate-guide-to-proxy-types)
 - [What Is an ETL Pipeline? A Guide for Web Data Sources](https://brightdata.com/blog/proxy-101/etl-pipeline)
