@@ -128,6 +128,7 @@ For projects, email [hello@doccraft.dev](mailto:hello@doccraft.dev) or message m
 - [Puppeteer Stealth Tutorial; How to Set Up & Use (+ Working Alternatives)](https://www.scrapingbee.com/blog/puppeteer-stealth-tutorial-with-examples/)
 
 ## GoLogin
+- [Notte.cc Review 2026: Speed, Concurrency and Real Pricing](https://gologin.com/blog/notte-review/)
 - [Obscura Headless Browser Review: Speed, Concurrency, & Total Cost](https://gologin.com/blog/obscura-review/)
 - [Anchor Browser Review 2026: Profiles, Anti-Bot Tests, Speed and Real Pricing](https://gologin.com/blog/anchor-browser-review/)
 - [Lightpanda headless browser review: speed, concurrency, and real pricing](https://gologin.com/blog/lightpanda-review/)
